@@ -31,3 +31,5 @@ type RelicList = Array<Relic>
 type KeyList = Array<Mission>
 
 type TransientList = Array<Mission>
+
+type SortieRewards = Mission

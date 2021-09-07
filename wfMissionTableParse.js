@@ -48,6 +48,9 @@ function MissionTableParse (id) {
             }
         }
     }
+    if (!individualTablesNumber.length) {
+        individualTableSlices = [currentArray]
+    }
     console.log(individualTableSlices)
 
     individualTableSlices.forEach(list => {
@@ -113,4 +116,6 @@ function MissionTableParse (id) {
 
 
 console.log(MissionTableParse('missionRewards'))
+console.log(MissionTableParse('keyRewards'))
 console.log(MissionTableParse('transientRewards'))
+console.log(MissionTableParse('sortieRewards'))
