@@ -27,3 +27,7 @@ interface Relic {
 type MissionList = Array<Mission>
 
 type RelicList = Array<Relic>
+
+type KeyList = Array<Mission>
+
+type TransientList = Array<Mission>

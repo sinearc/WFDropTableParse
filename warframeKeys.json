@@ -1,0 +1,2346 @@
+[
+	{
+	  "location": "Recover The Orokin Archive",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Lith T4 Relic",
+			  "chance": "Rare (2.21%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lith I1 Relic",
+			  "chance": "Rare (2.21%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lith A4 Relic",
+			  "chance": "Rare (2.21%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lith P5 Relic",
+			  "chance": "Rare (2.21%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lith K6 Relic",
+			  "chance": "Rare (2.21%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lith B8 Relic",
+			  "chance": "Rare (2.21%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lith G4 Relic",
+			  "chance": "Rare (2.21%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Fast Hands",
+			  "chance": "Rare (2.21%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Ammo Drum",
+			  "chance": "Rare (2.21%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Pressure Point",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Trick Mag",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Magazine Warp",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Rush",
+			  "chance": "Rare (2.21%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Fast Deflection",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Fast Deflection",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Vitality",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Meso Z4 Relic",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Meso D6 Relic",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Meso P5 Relic",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Meso T5 Relic",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Meso I1 Relic",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Meso C6 Relic",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Meso P4 Relic",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Pressure Point",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Reflex Coil",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Fury",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Hornet Strike",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Serration",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Point Blank",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Blunderbuss",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Ravage",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "No Return",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Target Cracker",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Pistol Gambit",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Metal Auger",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Piercing Hit",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Vital Sense",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Point Strike",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Fast Hands",
+			  "chance": "Ultra Rare (1.58%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Speed Trigger",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Meso Z4 Relic",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Meso D6 Relic",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Meso P5 Relic",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Neo N15 Relic",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Neo B7 Relic",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Neo P2 Relic",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Meso I1 Relic",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Meso C6 Relic",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Meso T5 Relic",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Neo V10 Relic",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Neo A5 Relic",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Neo T4 Relic",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Neo D3 Relic",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Meso P4 Relic",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Master Thief",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Continuity",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Stretch",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Split Chamber",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Stormbringer",
+			  "chance": "Rare (2.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Shocking Touch",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Convulsion",
+			  "chance": "Rare (8.43%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Lith T4 Relic",
+		  "chance": "Rare (2.21%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lith I1 Relic",
+		  "chance": "Rare (2.21%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lith A4 Relic",
+		  "chance": "Rare (2.21%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lith P5 Relic",
+		  "chance": "Rare (2.21%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lith K6 Relic",
+		  "chance": "Rare (2.21%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lith B8 Relic",
+		  "chance": "Rare (2.21%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lith G4 Relic",
+		  "chance": "Rare (2.21%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Fast Hands",
+		  "chance": "Rare (2.21%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Ammo Drum",
+		  "chance": "Rare (2.21%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Pressure Point",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Trick Mag",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Magazine Warp",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Rush",
+		  "chance": "Rare (2.21%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Fast Deflection",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Fast Deflection",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Vitality",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Meso Z4 Relic",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Meso D6 Relic",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Meso P5 Relic",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Meso T5 Relic",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Meso I1 Relic",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Meso C6 Relic",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Meso P4 Relic",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Pressure Point",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Reflex Coil",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Fury",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Hornet Strike",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Serration",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Point Blank",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Blunderbuss",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Ravage",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "No Return",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Target Cracker",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Pistol Gambit",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Metal Auger",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Piercing Hit",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Vital Sense",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Point Strike",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Fast Hands",
+		  "chance": "Ultra Rare (1.58%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Speed Trigger",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Meso Z4 Relic",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Meso D6 Relic",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Meso P5 Relic",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Neo N15 Relic",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Neo B7 Relic",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Neo P2 Relic",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Meso I1 Relic",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Meso C6 Relic",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Meso T5 Relic",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Neo V10 Relic",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Neo A5 Relic",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Neo T4 Relic",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Neo D3 Relic",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Meso P4 Relic",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Master Thief",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Continuity",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Stretch",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Split Chamber",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Stormbringer",
+		  "chance": "Rare (2.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Shocking Touch",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Convulsion",
+		  "chance": "Rare (8.43%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Help Clem Retrieve The Relic",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Help Clem Retrieve The Relic",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Help Clem Retrieve The Relic",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Help Clem Retrieve The Relic",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Help Clem Retrieve The Relic",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Mutalist Alad V Assassinate",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "Mesa Neuroptics Blueprint",
+		  "chance": "Common (38.72%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Mesa Chassis Blueprint",
+		  "chance": "Common (38.72%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Mesa Systems Blueprint",
+		  "chance": "Uncommon (22.56%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Acquire The Incubator Segment",
+	  "rotations": 2,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "100 Endo",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "5,000 Credits Cache",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "5,000 Credits Cache",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "100 Endo",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "5,000 Credits Cache",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "5,000 Credits Cache",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "100 Endo",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "5,000 Credits Cache",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "5,000 Credits Cache",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "100 Endo",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "5,000 Credits Cache",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "5,000 Credits Cache",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Enter Nihil's Oubliette",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "Rifle Riven Mod",
+		  "chance": "Uncommon (20.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Pistol Riven Mod",
+		  "chance": "Uncommon (20.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Shotgun Riven Mod",
+		  "chance": "Uncommon (20.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Melee Riven Mod",
+		  "chance": "Uncommon (20.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Zaw Riven Mod",
+		  "chance": "Uncommon (20.00%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "The Xoris",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Xoris Handle",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Xoris Core",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Xoris Blade",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Xoris Handle",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Xoris Core",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Xoris Blade",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Baro Void-Signal",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "Elixis Latron Shoulder Plate",
+		  "chance": "Uncommon (20.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Elixis Latron Leg Plate",
+		  "chance": "Uncommon (20.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Elixis Latron Chest Plate",
+		  "chance": "Uncommon (20.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Noggle Statue - Inaros Sarcophagus",
+		  "chance": "Uncommon (20.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Inaros Osiris Helmet",
+		  "chance": "Uncommon (20.00%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Operation: Orphix Venom",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "500 Endo",
+			  "chance": "Very Common (68.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Augur",
+			  "chance": "Rare (4.55%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Repair",
+			  "chance": "Rare (4.55%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Rebuke",
+			  "chance": "Rare (4.55%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Deflection",
+			  "chance": "Rare (4.55%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Enemy Sense",
+			  "chance": "Rare (4.55%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Rage",
+			  "chance": "Rare (4.55%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Aviator",
+			  "chance": "Rare (4.55%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "750 Endo",
+			  "chance": "Very Common (77.78%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Stock",
+			  "chance": "Rare (5.56%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Receiver",
+			  "chance": "Rare (5.56%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Barrel",
+			  "chance": "Rare (5.56%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Blueprint",
+			  "chance": "Rare (5.56%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "1000 Endo",
+			  "chance": "Very Common (72.22%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Lavos Cordatus Helmet Blueprint",
+			  "chance": "Rare (5.56%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Lavos Systems Blueprint",
+			  "chance": "Rare (5.56%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Lavos Neuroptics Blueprint",
+			  "chance": "Rare (5.56%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Lavos Chassis Blueprint",
+			  "chance": "Rare (5.56%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Lavos Blueprint",
+			  "chance": "Rare (5.56%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "500 Endo",
+		  "chance": "Very Common (68.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Augur",
+		  "chance": "Rare (4.55%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Repair",
+		  "chance": "Rare (4.55%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Rebuke",
+		  "chance": "Rare (4.55%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Deflection",
+		  "chance": "Rare (4.55%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Enemy Sense",
+		  "chance": "Rare (4.55%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Rage",
+		  "chance": "Rare (4.55%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Aviator",
+		  "chance": "Rare (4.55%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "750 Endo",
+		  "chance": "Very Common (77.78%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Stock",
+		  "chance": "Rare (5.56%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Receiver",
+		  "chance": "Rare (5.56%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Barrel",
+		  "chance": "Rare (5.56%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Blueprint",
+		  "chance": "Rare (5.56%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "1000 Endo",
+		  "chance": "Very Common (72.22%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Lavos Cordatus Helmet Blueprint",
+		  "chance": "Rare (5.56%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Lavos Systems Blueprint",
+		  "chance": "Rare (5.56%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Lavos Neuroptics Blueprint",
+		  "chance": "Rare (5.56%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Lavos Chassis Blueprint",
+		  "chance": "Rare (5.56%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Lavos Blueprint",
+		  "chance": "Rare (5.56%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Operation: Orphix Venom",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "1000 Endo",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Cordatus Helmet Blueprint",
+			  "chance": "Uncommon (22.22%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Systems Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Neuroptics Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Chassis Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "2000 Endo",
+			  "chance": "Common (55.56%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Stock",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Receiver",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Barrel",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Necramech Augur",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Repair",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Rebuke",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Deflection",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Enemy Sense",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Rage",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Aviator",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "1000 Endo",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Cordatus Helmet Blueprint",
+		  "chance": "Uncommon (22.22%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Systems Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Neuroptics Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Chassis Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "2000 Endo",
+		  "chance": "Common (55.56%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Stock",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Receiver",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Barrel",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Necramech Augur",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Repair",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Rebuke",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Deflection",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Enemy Sense",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Rage",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Aviator",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Operation: Orphix Venom",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "1000 Endo",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Cordatus Helmet Blueprint",
+			  "chance": "Uncommon (22.22%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Systems Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Neuroptics Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Chassis Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "2000 Endo",
+			  "chance": "Common (55.56%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Stock",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Receiver",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Barrel",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Necramech Augur",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Repair",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Rebuke",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Deflection",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Enemy Sense",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Rage",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Aviator",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "1000 Endo",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Cordatus Helmet Blueprint",
+		  "chance": "Uncommon (22.22%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Systems Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Neuroptics Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Chassis Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "2000 Endo",
+		  "chance": "Common (55.56%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Stock",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Receiver",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Barrel",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Necramech Augur",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Repair",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Rebuke",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Deflection",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Enemy Sense",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Rage",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Aviator",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Operation: Orphix Venom",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "750 Endo",
+			  "chance": "Common (54.35%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Augur",
+			  "chance": "Rare (6.52%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Repair",
+			  "chance": "Rare (6.52%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Rebuke",
+			  "chance": "Rare (6.52%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Deflection",
+			  "chance": "Rare (6.52%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Enemy Sense",
+			  "chance": "Rare (6.52%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Rage",
+			  "chance": "Rare (6.52%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Necramech Aviator",
+			  "chance": "Rare (6.52%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "1500 Endo",
+			  "chance": "Very Common (76.93%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Stock",
+			  "chance": "Rare (5.77%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Receiver",
+			  "chance": "Rare (5.77%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Barrel",
+			  "chance": "Rare (5.77%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Blueprint",
+			  "chance": "Rare (5.77%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "2250 Endo",
+			  "chance": "Very Common (71.16%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Lavos Cordatus Helmet Blueprint",
+			  "chance": "Rare (5.77%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Lavos Systems Blueprint",
+			  "chance": "Rare (5.77%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Lavos Neuroptics Blueprint",
+			  "chance": "Rare (5.77%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Lavos Chassis Blueprint",
+			  "chance": "Rare (5.77%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Lavos Blueprint",
+			  "chance": "Rare (5.77%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "750 Endo",
+		  "chance": "Common (54.35%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Augur",
+		  "chance": "Rare (6.52%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Repair",
+		  "chance": "Rare (6.52%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Rebuke",
+		  "chance": "Rare (6.52%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Deflection",
+		  "chance": "Rare (6.52%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Enemy Sense",
+		  "chance": "Rare (6.52%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Rage",
+		  "chance": "Rare (6.52%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Necramech Aviator",
+		  "chance": "Rare (6.52%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "1500 Endo",
+		  "chance": "Very Common (76.93%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Stock",
+		  "chance": "Rare (5.77%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Receiver",
+		  "chance": "Rare (5.77%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Barrel",
+		  "chance": "Rare (5.77%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Blueprint",
+		  "chance": "Rare (5.77%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "2250 Endo",
+		  "chance": "Very Common (71.16%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Lavos Cordatus Helmet Blueprint",
+		  "chance": "Rare (5.77%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Lavos Systems Blueprint",
+		  "chance": "Rare (5.77%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Lavos Neuroptics Blueprint",
+		  "chance": "Rare (5.77%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Lavos Chassis Blueprint",
+		  "chance": "Rare (5.77%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Lavos Blueprint",
+		  "chance": "Rare (5.77%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Operation: Orphix Venom",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "1000 Endo",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Cordatus Helmet Blueprint",
+			  "chance": "Uncommon (22.22%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Systems Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Neuroptics Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Chassis Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Lavos Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "2000 Endo",
+			  "chance": "Common (55.56%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Stock",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Receiver",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Barrel",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Cedo Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Necramech Augur",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Repair",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Rebuke",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Deflection",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Enemy Sense",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Rage",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Necramech Aviator",
+			  "chance": "Uncommon (14.29%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "1000 Endo",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Cordatus Helmet Blueprint",
+		  "chance": "Uncommon (22.22%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Systems Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Neuroptics Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Chassis Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Lavos Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "2000 Endo",
+		  "chance": "Common (55.56%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Stock",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Receiver",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Barrel",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Cedo Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Necramech Augur",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Repair",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Rebuke",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Deflection",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Enemy Sense",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Rage",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Necramech Aviator",
+		  "chance": "Uncommon (14.29%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Mutalist Alad V Assassinate",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "Mesa Neuroptics Blueprint",
+		  "chance": "Common (38.72%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Mesa Chassis Blueprint",
+		  "chance": "Common (38.72%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Mesa Systems Blueprint",
+		  "chance": "Uncommon (22.56%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Orokin Derelict Assassinate",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "Nekros Chassis Blueprint",
+		  "chance": "Common (33.33%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Nekros Neuroptics Blueprint",
+		  "chance": "Common (33.33%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Nekros Systems Blueprint",
+		  "chance": "Common (33.33%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Murex Raid",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "80 Endo",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "80 Endo",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "80 Endo",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "80 Endo",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "80 Endo",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "80 Endo",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Jordas Golem Assassinate",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "Atlas Neuroptics Blueprint",
+		  "chance": "Common (38.72%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Atlas Chassis Blueprint",
+		  "chance": "Common (38.72%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Atlas Systems Blueprint",
+		  "chance": "Uncommon (22.56%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Ground Assault",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "500 Endo",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "500 Endo",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "500 Endo",
+			  "chance": "Very Common (100.00%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "500 Endo",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "500 Endo",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "500 Endo",
+		  "chance": "Very Common (100.00%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Vay Hek Frequency Triangulator",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "Hydroid Neuroptics Blueprint",
+		  "chance": "Common (38.72%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Hydroid Chassis Blueprint",
+		  "chance": "Common (38.72%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Hydroid Systems Blueprint",
+		  "chance": "Uncommon (22.56%)",
+		  "rotation": null
+		}
+	  ]
+	}
+  ]
