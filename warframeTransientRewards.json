@@ -1,0 +1,2362 @@
+[
+	{
+	  "location": "Arbitrations",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "900 Endo",
+			  "chance": "Common (44.00%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Aura Forma Blueprint",
+			  "chance": "Ultra Rare (1.00%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Aerodynamic",
+			  "chance": "Rare (2.00%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Adaptation",
+			  "chance": "Rare (2.00%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Combat Discipline",
+			  "chance": "Rare (2.00%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Arcane Bodyguard",
+			  "chance": "Rare (5.00%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Arcane Tanker",
+			  "chance": "Rare (5.00%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Arcane Pistoleer",
+			  "chance": "Rare (5.00%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "3X Vitus Essence",
+			  "chance": "Rare (7.00%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Ayatan Ayr Sculpture",
+			  "chance": "Rare (9.00%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Ayatan Sah Sculpture",
+			  "chance": "Rare (9.00%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Ayatan Valana Sculpture",
+			  "chance": "Rare (9.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "1200 Endo",
+			  "chance": "Common (44.50%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Aura Forma Blueprint",
+			  "chance": "Rare (2.00%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Shepherd",
+			  "chance": "Rare (2.50%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Adaptation",
+			  "chance": "Rare (2.50%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Combat Discipline",
+			  "chance": "Rare (2.50%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Arcane Primary Charger",
+			  "chance": "Rare (5.00%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Arcane Blade Charger",
+			  "chance": "Rare (5.00%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Arcane Bodyguard",
+			  "chance": "Rare (5.00%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "3X Vitus Essence",
+			  "chance": "Rare (7.00%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Ayatan Piv Sculpture",
+			  "chance": "Uncommon (12.00%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Ayatan Vaya Sculpture",
+			  "chance": "Uncommon (12.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "1500 Endo",
+			  "chance": "Common (33.00%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Aura Forma Blueprint",
+			  "chance": "Rare (4.50%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Seeding Step Ephemera Blueprint",
+			  "chance": "Rare (5.00%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Swift Momentum",
+			  "chance": "Rare (3.50%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Melee Guidance",
+			  "chance": "Rare (3.50%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Combat Discipline",
+			  "chance": "Rare (3.50%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Arcane Primary Charger",
+			  "chance": "Rare (5.00%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Arcane Blade Charger",
+			  "chance": "Rare (5.00%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Arcane Tanker",
+			  "chance": "Rare (5.00%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Arcane Pistoleer",
+			  "chance": "Rare (5.00%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "3X Vitus Essence",
+			  "chance": "Rare (7.00%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Ayatan Orta Sculpture",
+			  "chance": "Uncommon (20.00%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "900 Endo",
+		  "chance": "Common (44.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Aura Forma Blueprint",
+		  "chance": "Ultra Rare (1.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Aerodynamic",
+		  "chance": "Rare (2.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Adaptation",
+		  "chance": "Rare (2.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Combat Discipline",
+		  "chance": "Rare (2.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Arcane Bodyguard",
+		  "chance": "Rare (5.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Arcane Tanker",
+		  "chance": "Rare (5.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Arcane Pistoleer",
+		  "chance": "Rare (5.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "3X Vitus Essence",
+		  "chance": "Rare (7.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Ayatan Ayr Sculpture",
+		  "chance": "Rare (9.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Ayatan Sah Sculpture",
+		  "chance": "Rare (9.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Ayatan Valana Sculpture",
+		  "chance": "Rare (9.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "1200 Endo",
+		  "chance": "Common (44.50%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Aura Forma Blueprint",
+		  "chance": "Rare (2.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Shepherd",
+		  "chance": "Rare (2.50%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Adaptation",
+		  "chance": "Rare (2.50%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Combat Discipline",
+		  "chance": "Rare (2.50%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Arcane Primary Charger",
+		  "chance": "Rare (5.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Arcane Blade Charger",
+		  "chance": "Rare (5.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Arcane Bodyguard",
+		  "chance": "Rare (5.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "3X Vitus Essence",
+		  "chance": "Rare (7.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Ayatan Piv Sculpture",
+		  "chance": "Uncommon (12.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Ayatan Vaya Sculpture",
+		  "chance": "Uncommon (12.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "1500 Endo",
+		  "chance": "Common (33.00%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Aura Forma Blueprint",
+		  "chance": "Rare (4.50%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Seeding Step Ephemera Blueprint",
+		  "chance": "Rare (5.00%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Swift Momentum",
+		  "chance": "Rare (3.50%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Melee Guidance",
+		  "chance": "Rare (3.50%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Combat Discipline",
+		  "chance": "Rare (3.50%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Arcane Primary Charger",
+		  "chance": "Rare (5.00%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Arcane Blade Charger",
+		  "chance": "Rare (5.00%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Arcane Tanker",
+		  "chance": "Rare (5.00%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Arcane Pistoleer",
+		  "chance": "Rare (5.00%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "3X Vitus Essence",
+		  "chance": "Rare (7.00%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Ayatan Orta Sculpture",
+		  "chance": "Uncommon (20.00%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Derelict Vault",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "Corrupt Charge",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Hollow Point",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Spoiled Strike",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Magnum Force",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Tainted Clip",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Critical Delay",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Heavy Caliber",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Tainted Mag",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Vile Precision",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Narrow Minded",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Fleeting Expertise",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Blind Rage",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Overextended",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Tainted Shell",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Vicious Spread",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Burdened Magazine",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Anemic Agility",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Vile Acceleration",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Frail Momentum",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Critical Deceleration",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Creeping Bullseye",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Transient Fortitude",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Depleted Reload",
+		  "chance": "Rare (4.35%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Phorid Assassination",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "Nyx Neuroptics Blueprint",
+		  "chance": "Common (38.72%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Nyx Chassis Blueprint",
+		  "chance": "Common (38.72%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Nyx Systems Blueprint",
+		  "chance": "Uncommon (22.56%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Nightmare Mode Rewards",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Chilling Reload",
+			  "chance": "Uncommon (22.11%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Blaze",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Accelerated Blast",
+			  "chance": "Uncommon (18.97%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Wildfire",
+			  "chance": "Uncommon (18.97%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Hammer Shot",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Stunning Speed",
+			  "chance": "Uncommon (18.97%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Ice Storm",
+			  "chance": "Uncommon (18.97%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Fortitude",
+			  "chance": "Uncommon (15.49%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Rending Strike",
+			  "chance": "Uncommon (15.49%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Shred",
+			  "chance": "Uncommon (15.49%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Armored Agility",
+			  "chance": "Uncommon (15.49%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Seeking Fury",
+			  "chance": "Uncommon (15.49%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Drifting Contact",
+			  "chance": "Uncommon (22.56%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Constitution",
+			  "chance": "Uncommon (15.49%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Focus Energy",
+			  "chance": "Uncommon (15.49%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Lethal Torrent",
+			  "chance": "Uncommon (15.49%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Vigor",
+			  "chance": "Uncommon (15.49%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Animal Instinct",
+			  "chance": "Uncommon (15.49%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Streamlined Form",
+			  "chance": "Uncommon (22.56%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Chilling Reload",
+		  "chance": "Uncommon (22.11%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Blaze",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Accelerated Blast",
+		  "chance": "Uncommon (18.97%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Wildfire",
+		  "chance": "Uncommon (18.97%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Hammer Shot",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Stunning Speed",
+		  "chance": "Uncommon (18.97%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Ice Storm",
+		  "chance": "Uncommon (18.97%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Fortitude",
+		  "chance": "Uncommon (15.49%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Rending Strike",
+		  "chance": "Uncommon (15.49%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Shred",
+		  "chance": "Uncommon (15.49%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Armored Agility",
+		  "chance": "Uncommon (15.49%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Seeking Fury",
+		  "chance": "Uncommon (15.49%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Drifting Contact",
+		  "chance": "Uncommon (22.56%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Constitution",
+		  "chance": "Uncommon (15.49%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Focus Energy",
+		  "chance": "Uncommon (15.49%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Lethal Torrent",
+		  "chance": "Uncommon (15.49%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Vigor",
+		  "chance": "Uncommon (15.49%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Animal Instinct",
+		  "chance": "Uncommon (15.49%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Streamlined Form",
+		  "chance": "Uncommon (22.56%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Fomorian Sabotage",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "400 Endo",
+		  "chance": "Common (40.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Imperator Vandal Barrel",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Imperator Vandal Receiver",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Imperator Vandal Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Hypothermic Shell",
+		  "chance": "Rare (5.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Charged Bullets",
+		  "chance": "Rare (5.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Contamination Casing",
+		  "chance": "Rare (5.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Cryo Coating",
+		  "chance": "Rare (5.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Ion Infusion",
+		  "chance": "Rare (5.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Infectious Injection",
+		  "chance": "Rare (5.00%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Razorback",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "Gorgon Wraith Blueprint",
+		  "chance": "Uncommon (18.97%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Gorgon Wraith Barrel",
+		  "chance": "Uncommon (18.97%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Gorgon Wraith Receiver",
+		  "chance": "Uncommon (18.97%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Gorgon Wraith Stock",
+		  "chance": "Uncommon (18.97%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Bore",
+		  "chance": "Rare (5.53%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Piercing Caliber",
+		  "chance": "Rare (5.53%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Breach Loader",
+		  "chance": "Rare (5.53%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Auger Strike",
+		  "chance": "Rare (5.53%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Magma Chamber",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Searing Steel",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Kuva Siphon",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "100 Endo",
+		  "chance": "Common (50.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Requiem I Relic",
+		  "chance": "Uncommon (12.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Requiem Ii Relic",
+		  "chance": "Uncommon (12.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Requiem Iii Relic",
+		  "chance": "Uncommon (12.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Requiem Iv Relic",
+		  "chance": "Uncommon (12.50%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Kuva Flood",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "Requiem I Relic",
+		  "chance": "Uncommon (25.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Requiem Ii Relic",
+		  "chance": "Uncommon (25.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Requiem Iii Relic",
+		  "chance": "Uncommon (25.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Requiem Iv Relic",
+		  "chance": "Uncommon (25.00%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Hallowed Flame Mission Caches",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Boot",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Norg",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "500X Nano Spores",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Charger Specter Blueprint",
+			  "chance": "Rare (7.37%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Ancient Healer Specter Blueprint",
+			  "chance": "Rare (7.37%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "125X Kuva",
+			  "chance": "Rare (7.37%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "125X Kuva",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "7,500 Credits Cache",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "7,500 Credits Cache",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "7,500 Credits Cache",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Universal Medallion",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Forma Blueprint",
+			  "chance": "Uncommon (11.06%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Argon Crystal",
+			  "chance": "Uncommon (11.06%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "175X Kuva",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "175X Kuva",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Orokin Cell",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "100X Plastids",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "400 Endo",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "400 Endo",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Universal Medallion",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Nitain Extract",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Kubrow Egg",
+			  "chance": "Rare (5.53%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Kavat Genetic Code",
+			  "chance": "Rare (5.53%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Day Of The Dead Sigil",
+			  "chance": "Rare (5.53%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Argon Crystal",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "225X Kuva",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "225X Kuva",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "600 Endo",
+			  "chance": "Rare (5.53%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "600 Endo",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "600 Endo",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Boot",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Norg",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "500X Nano Spores",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Charger Specter Blueprint",
+		  "chance": "Rare (7.37%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Ancient Healer Specter Blueprint",
+		  "chance": "Rare (7.37%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "125X Kuva",
+		  "chance": "Rare (7.37%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "125X Kuva",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "7,500 Credits Cache",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "7,500 Credits Cache",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "7,500 Credits Cache",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Universal Medallion",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Forma Blueprint",
+		  "chance": "Uncommon (11.06%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Argon Crystal",
+		  "chance": "Uncommon (11.06%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "175X Kuva",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "175X Kuva",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Orokin Cell",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "100X Plastids",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "400 Endo",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "400 Endo",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Universal Medallion",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Nitain Extract",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Kubrow Egg",
+		  "chance": "Rare (5.53%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Kavat Genetic Code",
+		  "chance": "Rare (5.53%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Day Of The Dead Sigil",
+		  "chance": "Rare (5.53%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Argon Crystal",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "225X Kuva",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "225X Kuva",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "600 Endo",
+		  "chance": "Rare (5.53%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "600 Endo",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "600 Endo",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Hallowed Flame Endurance Caches",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Boot",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Norg",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "2X Pherliac Pods",
+			  "chance": "Rare (7.37%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Charger Specter Blueprint",
+			  "chance": "Rare (7.37%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "Ancient Healer Specter Blueprint",
+			  "chance": "Rare (7.37%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "150X Kuva",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "150X Kuva",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "10,000 Credits Cache",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "10,000 Credits Cache",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "10,000 Credits Cache",
+			  "chance": "Uncommon (15.18%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Universal Medallion",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Clem Clone Blueprint",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Forma Blueprint",
+			  "chance": "Uncommon (11.06%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Mutagen Mass",
+			  "chance": "Uncommon (11.06%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "200X Kuva",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "200X Kuva",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "2X Orokin Cell",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "Argon Crystal",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "400 Endo",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "400 Endo",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Universal Medallion",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Nitain Extract",
+			  "chance": "Ultra Rare (1.01%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Kubrow Egg",
+			  "chance": "Uncommon (11.06%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Kavat Genetic Code",
+			  "chance": "Uncommon (11.06%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Day Of The Dead Sigil",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "2X Argon Crystal",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "600 Endo",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "600 Endo",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "250X Kuva",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "250X Kuva",
+			  "chance": "Uncommon (12.65%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Boot",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Norg",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "2X Pherliac Pods",
+		  "chance": "Rare (7.37%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Charger Specter Blueprint",
+		  "chance": "Rare (7.37%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Ancient Healer Specter Blueprint",
+		  "chance": "Rare (7.37%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "150X Kuva",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "150X Kuva",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "10,000 Credits Cache",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "10,000 Credits Cache",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "10,000 Credits Cache",
+		  "chance": "Uncommon (15.18%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Universal Medallion",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Clem Clone Blueprint",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Forma Blueprint",
+		  "chance": "Uncommon (11.06%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Mutagen Mass",
+		  "chance": "Uncommon (11.06%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "200X Kuva",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "200X Kuva",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "2X Orokin Cell",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Argon Crystal",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "400 Endo",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "400 Endo",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Universal Medallion",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Nitain Extract",
+		  "chance": "Ultra Rare (1.01%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Kubrow Egg",
+		  "chance": "Uncommon (11.06%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Kavat Genetic Code",
+		  "chance": "Uncommon (11.06%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Day Of The Dead Sigil",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "2X Argon Crystal",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "600 Endo",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "600 Endo",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "250X Kuva",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "250X Kuva",
+		  "chance": "Uncommon (12.65%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Granum Void",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Granum Crown Decoration",
+			  "chance": "Uncommon (16.67%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "5X Void Traces",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "2,000 Credits Cache",
+			  "chance": "Common (50.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Corpus Ship Bridge Scene",
+			  "chance": "Uncommon (16.67%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "200 Endo",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "3,000 Credits Cache",
+			  "chance": "Common (50.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Protea Neuroptics Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Velox Barrel",
+			  "chance": "Uncommon (22.22%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Stahlta Receiver",
+			  "chance": "Uncommon (22.22%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Stropha Blade",
+			  "chance": "Uncommon (22.22%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Stropha Barrel",
+			  "chance": "Uncommon (22.22%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Granum Crown Decoration",
+		  "chance": "Uncommon (16.67%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "5X Void Traces",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "2,000 Credits Cache",
+		  "chance": "Common (50.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Corpus Ship Bridge Scene",
+		  "chance": "Uncommon (16.67%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "200 Endo",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "3,000 Credits Cache",
+		  "chance": "Common (50.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Protea Neuroptics Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Velox Barrel",
+		  "chance": "Uncommon (22.22%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Stahlta Receiver",
+		  "chance": "Uncommon (22.22%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Stropha Blade",
+		  "chance": "Uncommon (22.22%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Stropha Barrel",
+		  "chance": "Uncommon (22.22%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Extended Granum Void",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Exemplar Granum Crown Decoration",
+			  "chance": "Uncommon (16.67%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "10X Void Traces",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "3,000 Credits Cache",
+			  "chance": "Common (50.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Corpus Ship Hangar Scene",
+			  "chance": "Uncommon (16.67%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "400 Endo",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "5,000 Credits Cache",
+			  "chance": "Common (50.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Protea Chassis Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Velox Receiver",
+			  "chance": "Uncommon (29.63%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Stahlta Stock",
+			  "chance": "Uncommon (29.63%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Stropha Receiver",
+			  "chance": "Uncommon (29.63%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Exemplar Granum Crown Decoration",
+		  "chance": "Uncommon (16.67%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "10X Void Traces",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "3,000 Credits Cache",
+		  "chance": "Common (50.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Corpus Ship Hangar Scene",
+		  "chance": "Uncommon (16.67%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "400 Endo",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "5,000 Credits Cache",
+		  "chance": "Common (50.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Protea Chassis Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Velox Receiver",
+		  "chance": "Uncommon (29.63%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Stahlta Stock",
+		  "chance": "Uncommon (29.63%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Stropha Receiver",
+		  "chance": "Uncommon (29.63%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Nightmare Granum Void",
+	  "rotations": 3,
+	  "rotationList": [
+		{
+		  "rotation": "Rotation A",
+		  "drops": [
+			{
+			  "drop": "Zenith Granum Crown Decoration",
+			  "chance": "Uncommon (16.67%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "15X Void Traces",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation A"
+			},
+			{
+			  "drop": "7,500 Credits Cache",
+			  "chance": "Common (50.00%)",
+			  "rotation": "Rotation A"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "drops": [
+			{
+			  "drop": "Corpus Ship Orbital Cannon Scene",
+			  "chance": "Uncommon (16.67%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "600 Endo",
+			  "chance": "Common (33.33%)",
+			  "rotation": "Rotation B"
+			},
+			{
+			  "drop": "10,000 Credits Cache",
+			  "chance": "Common (50.00%)",
+			  "rotation": "Rotation B"
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "drops": [
+			{
+			  "drop": "Protea Systems Blueprint",
+			  "chance": "Uncommon (11.11%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Stahlta Barrel",
+			  "chance": "Uncommon (29.63%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Stropha Stock",
+			  "chance": "Uncommon (29.63%)",
+			  "rotation": "Rotation C"
+			},
+			{
+			  "drop": "Mortuus Shoulder Guard",
+			  "chance": "Uncommon (29.63%)",
+			  "rotation": "Rotation C"
+			}
+		  ]
+		}
+	  ],
+	  "drops": [
+		{
+		  "drop": "Zenith Granum Crown Decoration",
+		  "chance": "Uncommon (16.67%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "15X Void Traces",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "7,500 Credits Cache",
+		  "chance": "Common (50.00%)",
+		  "rotation": "Rotation A"
+		},
+		{
+		  "drop": "Corpus Ship Orbital Cannon Scene",
+		  "chance": "Uncommon (16.67%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "600 Endo",
+		  "chance": "Common (33.33%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "10,000 Credits Cache",
+		  "chance": "Common (50.00%)",
+		  "rotation": "Rotation B"
+		},
+		{
+		  "drop": "Protea Systems Blueprint",
+		  "chance": "Uncommon (11.11%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Stahlta Barrel",
+		  "chance": "Uncommon (29.63%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Stropha Stock",
+		  "chance": "Uncommon (29.63%)",
+		  "rotation": "Rotation C"
+		},
+		{
+		  "drop": "Mortuus Shoulder Guard",
+		  "chance": "Uncommon (29.63%)",
+		  "rotation": "Rotation C"
+		}
+	  ]
+	},
+	{
+	  "location": "Void Storm (Earth)",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "2X Corrupted Holokey",
+		  "chance": "Common (37.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "300 Endo",
+		  "chance": "Uncommon (12.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Epitaph Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Epitaph Barrel",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Epitaph Receiver",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Earth Resource Bundle",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith G4 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith B8 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith T4 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith P5 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith K6 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith A4 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith I1 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Void Storm (Venus)",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "2X Corrupted Holokey",
+		  "chance": "Common (37.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "300 Endo",
+		  "chance": "Uncommon (12.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Epitaph Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Epitaph Barrel",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Epitaph Receiver",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Venus Resource Bundle",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith G4 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith B8 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith P5 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith T4 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith K6 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith A4 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Lith I1 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Void Storm (Saturn)",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "4X Corrupted Holokey",
+		  "chance": "Common (37.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "600 Endo",
+		  "chance": "Uncommon (12.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Epitaph Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Epitaph Barrel",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Epitaph Receiver",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Saturn Resource Bundle",
+		  "chance": "Rare (5.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso P4 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso D6 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso T5 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso C6 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso P5 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso Z4 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Void Storm (Neptune)",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "3X Corrupted Holokey",
+		  "chance": "Common (37.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "900 Endo",
+		  "chance": "Uncommon (12.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Sevagoth Chassis Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Sevagoth Neuroptics Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Sevagoth Systems Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Neptune Resource Bundle",
+		  "chance": "Rare (5.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso P4 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso D6 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso T5 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso C6 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso P5 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Meso Z4 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Void Storm (Pluto)",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "5X Corrupted Holokey",
+		  "chance": "Common (37.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "900 Endo",
+		  "chance": "Uncommon (12.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Sevagoth Chassis Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Sevagoth Neuroptics Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Sevagoth Systems Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Pluto Resource Bundle",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Neo D3 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Neo T4 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Neo A5 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Neo V10 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Neo P2 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Neo B7 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Neo N15 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		}
+	  ]
+	},
+	{
+	  "location": "Void Storm (Veil Proxima)",
+	  "rotations": null,
+	  "rotationList": [],
+	  "drops": [
+		{
+		  "drop": "6X Corrupted Holokey",
+		  "chance": "Common (37.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "1200 Endo",
+		  "chance": "Uncommon (12.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Sevagoth Chassis Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Sevagoth Neuroptics Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Sevagoth Systems Blueprint",
+		  "chance": "Uncommon (10.00%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Veil Resource Bundle",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Axi O5 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Axi A13 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Axi N7 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Axi T7 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Axi G6 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Axi C6 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		},
+		{
+		  "drop": "Axi I1 Relic (Radiant)",
+		  "chance": "Rare (2.50%)",
+		  "rotation": null
+		}
+	  ]
+	}
+  ]
