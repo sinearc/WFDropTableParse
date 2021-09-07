@@ -113,3 +113,4 @@ function MissionTableParse (id) {
 
 
 console.log(MissionTableParse('missionRewards'))
+console.log(MissionTableParse('transientRewards'))
