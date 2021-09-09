@@ -118,4 +118,4 @@ function MissionTableParse (id) {
 console.log(MissionTableParse('missionRewards'))
 console.log(MissionTableParse('keyRewards'))
 console.log(MissionTableParse('transientRewards'))
-console.log(MissionTableParse('sortieRewards'))
+console.log(MissionTableParse('sortieRewards')[0])

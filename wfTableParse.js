@@ -33,13 +33,13 @@ function mapSimpleTables(id) {
 	let TableNoFalsyProps = Table.map(cleanNonZeroFalsyProperties)
 
 	let TablePairedChances = TableNoFalsyProps.map(item => {
-		if (item.childElementCount === 2) {
+		if (item.childElementCount === 2 && item.children[0].innerText && item.children[1].innerText) {
 			return {
 				"drop": item.children[0].innerText,
 				"chance": item.children[1].innerText,
 				"classList": []
 			}
-		} else if (item.childElementCount === 1 && !item.classList.length) {
+		} else if (!item.classList.length) {
 			return cleanNonZeroFalsyProperties(item.children[0])
 		} else {
 			return item
@@ -61,6 +61,9 @@ function mapSimpleTables(id) {
 			}
 		}
 	}
+	if (!individualTablesNumber.length) {
+        individualTableSlices = [currentArray]
+    }
 	individualTableSlices.forEach(list => {
 		list.forEach(item => {
 			delete item.classList
@@ -137,3 +140,8 @@ function mapRelics(simpleTableMap) {
 	})
 	return relics
 }
+
+console.log(mapMissions(mapSimpleTables("missionRewards")))
+console.log(mapMissions(mapSimpleTables("keyRewards")))
+console.log(mapMissions(mapSimpleTables("transientRewards")))
+console.log(mapMissions(mapSimpleTables("sortieRewards"))[0])
