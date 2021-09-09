@@ -10,7 +10,7 @@
 
 function cleanNonZeroFalsyProperties(item) {
 	// Utility function that keeps information contained in the DOM while discarding null values
-	// Done to optimize further processing
+	// Done to optimize further processing (I use the term "optimize" very lightly here)
 	const newObj = {}
 	for (const propKey in item) {
 		if ((!item[propKey] && item[propKey] !== 0) || typeof(item[propKey]) === "function") {
@@ -31,14 +31,27 @@ function mapSimpleTables(id) {
 	// Used for Missions and Relics
 	let Table = Array.from(document.getElementById(id).nextElementSibling.children[0].children)
 	let TableNoFalsyProps = Table.map(cleanNonZeroFalsyProperties)
-
 	let TablePairedChances = TableNoFalsyProps.map(item => {
+		/* The following admittedly expansive conditional is to handle the following:
+			the Star Chart and Transient mission tables contain structurally identical information (two-column data)
+			Star Chart tables label rotations with a row containing a single cell that spans 2 columns
+			Transient tables label rotations similarly, but:
+				the cell containing the rotation name does not span both columns
+				the row contains an additional empty table data cell (<td></td>)
+			The reason for this completely unnecessary discrepancy is unknown to me and probably unknown to DE
+			Particularly sharp witted readers may think "well couldn't you just remove the extra cell?", to which I say:
+				- No
+				- Yes, but my personal policy is to not modify the original data of the DOM while parsing
+				- Yes, but the corrections involved are significantly longer than this line
+				- No
+		*/
 		if (item.childElementCount === 2 && item.children[0].innerText && item.children[1].innerText) {
 			return {
 				"drop": item.children[0].innerText,
 				"chance": item.children[1].innerText,
 				"classList": []
 			}
+			// don't ask about the empty classList
 		} else if (!item.classList.length) {
 			return cleanNonZeroFalsyProperties(item.children[0])
 		} else {
@@ -61,6 +74,7 @@ function mapSimpleTables(id) {
 			}
 		}
 	}
+	// Following conditional is to deal with the case of a single mission droptable in a category (Sortie)
 	if (!individualTablesNumber.length) {
         individualTableSlices = [currentArray]
     }
@@ -73,6 +87,12 @@ function mapSimpleTables(id) {
 }
 
 function mapMissions(simpleTableMap) {
+	/* Maps all mission-based reward tables, including:
+		- Star Chart
+		- "Key" missions (Mutalist Alad V Assasinate, Lephantis, Jordas Golem, etc.)		
+		- "Dynamic Location" missions (Arbitration, Kuva Siphon, Nightmare, Granum Void, etc.)
+		- Sortie drop table
+	*/
 	let individualTableRotations = simpleTableMap.map(slice => {
 		let rotations = []
 		let returnObj = {
@@ -108,7 +128,7 @@ function mapMissions(simpleTableMap) {
 			return returnObj
 		}
 	})
-
+	// handles sorting drops into their rotation lists (for missions that have rotations)
 	individualTableRotations.forEach(each => {
 		if (each.rotations) {
 			each.rotationList.forEach(r => {
@@ -128,6 +148,8 @@ function mapMissions(simpleTableMap) {
 }
 
 function mapRelics(simpleTableMap) {
+	// Very little to elaborate on here...
+	// This function takes the result of passing the relic table id to mapSimpleTables and parses it to the relic data structures
 	let relics = simpleTableMap.map(individualRelicTable => {
 		let relicHead = individualRelicTable.shift().innerText.split(" ")
 		let relicObj = {
