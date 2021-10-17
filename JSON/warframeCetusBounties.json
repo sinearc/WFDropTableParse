@@ -1,0 +1,3064 @@
+[
+	{
+	  "bounty": "Level 5 - 15 Cetus Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Redirection",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "100X Oxium",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "15X Iradite",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Redirection",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "100X Oxium",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "15X Iradite",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "Gara Chassis Blueprint",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "Point Blank",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "Streamline",
+				  "chance": "Rare (7.52%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Redirection",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "100X Oxium",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "15X Iradite",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "Gara Chassis Blueprint",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Point Blank",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Streamline",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "2X Morphics",
+				  "chance": "Rare (2.01%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Gara Chassis Blueprint",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Point Blank",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Streamline",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "2X Morphics",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Pressure Point",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "100X Cryotic",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "15X Grokdrul",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Pressure Point",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "100X Cryotic",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "15X Grokdrul",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "Gara Chassis Blueprint",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "Hornet Strike",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "Stretch",
+				  "chance": "Rare (7.52%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Pressure Point",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "100X Cryotic",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "15X Grokdrul",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "Gara Chassis Blueprint",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Hornet Strike",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Stretch",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "2X Morphics",
+				  "chance": "Rare (2.01%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Gara Chassis Blueprint",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Hornet Strike",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Stretch",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "2X Morphics",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Vitality",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "200X Plastids",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "15X Nistlepod",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Vitality",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "200X Plastids",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "15X Nistlepod",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "Gara Chassis Blueprint",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "Point Blank",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "Intensify",
+				  "chance": "Rare (7.52%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Vitality",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "200X Plastids",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "15X Nistlepod",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "Gara Chassis Blueprint",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Point Blank",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Intensify",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "2X Gallium",
+				  "chance": "Rare (2.01%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Gara Chassis Blueprint",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Point Blank",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Intensify",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "2X Gallium",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 10 - 30 Cetus Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Steel Fiber",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "200X Oxium",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Steel Fiber",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "200X Oxium",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "Gara Systems Blueprint",
+				  "chance": "Rare (9.52%)"
+				},
+				{
+				  "drop": "Charged Chamber",
+				  "chance": "Rare (9.52%)"
+				},
+				{
+				  "drop": "Burning Wasp",
+				  "chance": "Rare (9.52%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (11.11%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Steel Fiber",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "200X Oxium",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "Gara Systems Blueprint",
+				  "chance": "Rare (9.16%)"
+				},
+				{
+				  "drop": "Charged Chamber",
+				  "chance": "Rare (9.16%)"
+				},
+				{
+				  "drop": "Burning Wasp",
+				  "chance": "Rare (9.16%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (10.69%)"
+				},
+				{
+				  "drop": "2X Control Module",
+				  "chance": "Rare (3.82%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Gara Systems Blueprint",
+				  "chance": "Uncommon (21.82%)"
+				},
+				{
+				  "drop": "Charged Chamber",
+				  "chance": "Uncommon (21.82%)"
+				},
+				{
+				  "drop": "Burning Wasp",
+				  "chance": "Uncommon (21.82%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (25.45%)"
+				},
+				{
+				  "drop": "2X Control Module",
+				  "chance": "Rare (9.09%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Energy Inversion",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "200X Cryotic",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Energy Inversion",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "200X Cryotic",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "Gara Systems Blueprint",
+				  "chance": "Rare (9.52%)"
+				},
+				{
+				  "drop": "Speed Trigger",
+				  "chance": "Rare (9.52%)"
+				},
+				{
+				  "drop": "Reaping Spiral",
+				  "chance": "Rare (9.52%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (11.11%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Energy Inversion",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "200X Cryotic",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "Gara Systems Blueprint",
+				  "chance": "Rare (9.16%)"
+				},
+				{
+				  "drop": "Speed Trigger",
+				  "chance": "Rare (9.16%)"
+				},
+				{
+				  "drop": "Reaping Spiral",
+				  "chance": "Rare (9.16%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (10.69%)"
+				},
+				{
+				  "drop": "2X Neural Sensors",
+				  "chance": "Rare (3.82%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Gara Systems Blueprint",
+				  "chance": "Uncommon (21.82%)"
+				},
+				{
+				  "drop": "Speed Trigger",
+				  "chance": "Uncommon (21.82%)"
+				},
+				{
+				  "drop": "Reaping Spiral",
+				  "chance": "Uncommon (21.82%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (25.45%)"
+				},
+				{
+				  "drop": "2X Neural Sensors",
+				  "chance": "Rare (9.09%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Point Strike",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "300X Circuits",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Point Strike",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "300X Circuits",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (15.08%)"
+				},
+				{
+				  "drop": "Gara Systems Blueprint",
+				  "chance": "Rare (9.52%)"
+				},
+				{
+				  "drop": "Enhanced Durability",
+				  "chance": "Rare (9.52%)"
+				},
+				{
+				  "drop": "Grim Fury",
+				  "chance": "Rare (9.52%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (11.11%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Point Strike",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "300X Circuits",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (14.50%)"
+				},
+				{
+				  "drop": "Gara Systems Blueprint",
+				  "chance": "Rare (9.16%)"
+				},
+				{
+				  "drop": "Enhanced Durability",
+				  "chance": "Rare (9.16%)"
+				},
+				{
+				  "drop": "Grim Fury",
+				  "chance": "Rare (9.16%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (10.69%)"
+				},
+				{
+				  "drop": "2X Orokin Cell",
+				  "chance": "Rare (3.82%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Gara Systems Blueprint",
+				  "chance": "Uncommon (21.82%)"
+				},
+				{
+				  "drop": "Enhanced Durability",
+				  "chance": "Uncommon (21.82%)"
+				},
+				{
+				  "drop": "Grim Fury",
+				  "chance": "Uncommon (21.82%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (25.45%)"
+				},
+				{
+				  "drop": "2X Orokin Cell",
+				  "chance": "Rare (9.09%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 20 - 40 Cetus Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Gladiator Aegis",
+				  "chance": "Uncommon (27.59%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Uncommon (29.31%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (29.31%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Gladiator Aegis",
+				  "chance": "Uncommon (16.84%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Rare (8.42%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Uncommon (17.89%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (17.89%)"
+				},
+				{
+				  "drop": "Gara Neuroptics Blueprint",
+				  "chance": "Rare (8.42%)"
+				},
+				{
+				  "drop": "Augur Accord",
+				  "chance": "Rare (8.42%)"
+				},
+				{
+				  "drop": "Revenant Systems Blueprint",
+				  "chance": "Rare (8.42%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (13.68%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Gladiator Aegis",
+				  "chance": "Uncommon (16.49%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Rare (8.25%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Uncommon (17.53%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (17.53%)"
+				},
+				{
+				  "drop": "Gara Neuroptics Blueprint",
+				  "chance": "Rare (8.25%)"
+				},
+				{
+				  "drop": "Augur Accord",
+				  "chance": "Rare (8.25%)"
+				},
+				{
+				  "drop": "Revenant Systems Blueprint",
+				  "chance": "Rare (8.25%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (13.40%)"
+				},
+				{
+				  "drop": "Vigilante Supplies",
+				  "chance": "Rare (2.06%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Gara Neuroptics Blueprint",
+				  "chance": "Uncommon (20.51%)"
+				},
+				{
+				  "drop": "Augur Accord",
+				  "chance": "Uncommon (20.51%)"
+				},
+				{
+				  "drop": "Revenant Systems Blueprint",
+				  "chance": "Uncommon (20.51%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Vigilante Supplies",
+				  "chance": "Rare (5.13%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Vigilante Armaments",
+				  "chance": "Common (35.19%)"
+				},
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Common (35.19%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Vigilante Armaments",
+				  "chance": "Uncommon (20.43%)"
+				},
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Rare (8.60%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Rare (8.60%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (20.43%)"
+				},
+				{
+				  "drop": "Gara Neuroptics Blueprint",
+				  "chance": "Rare (8.60%)"
+				},
+				{
+				  "drop": "Gladiator Might",
+				  "chance": "Rare (8.60%)"
+				},
+				{
+				  "drop": "Revenant Systems Blueprint",
+				  "chance": "Rare (9.68%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (15.05%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Vigilante Armaments",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Rare (8.42%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Rare (8.42%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Gara Neuroptics Blueprint",
+				  "chance": "Rare (8.42%)"
+				},
+				{
+				  "drop": "Gladiator Might",
+				  "chance": "Rare (8.42%)"
+				},
+				{
+				  "drop": "Revenant Systems Blueprint",
+				  "chance": "Rare (9.47%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (14.74%)"
+				},
+				{
+				  "drop": "Augur Seeker",
+				  "chance": "Rare (2.11%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Gara Neuroptics Blueprint",
+				  "chance": "Uncommon (19.51%)"
+				},
+				{
+				  "drop": "Gladiator Might",
+				  "chance": "Uncommon (19.51%)"
+				},
+				{
+				  "drop": "Revenant Systems Blueprint",
+				  "chance": "Uncommon (21.95%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Common (34.15%)"
+				},
+				{
+				  "drop": "Augur Seeker",
+				  "chance": "Rare (4.88%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Augur Pact",
+				  "chance": "Common (35.19%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Common (35.19%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Augur Pact",
+				  "chance": "Uncommon (20.21%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (20.21%)"
+				},
+				{
+				  "drop": "Gara Neuroptics Blueprint",
+				  "chance": "Rare (9.57%)"
+				},
+				{
+				  "drop": "Vigilante Fervor",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "Revenant Systems Blueprint",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (15.96%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Augur Pact",
+				  "chance": "Uncommon (19.79%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (19.79%)"
+				},
+				{
+				  "drop": "Gara Neuroptics Blueprint",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "Vigilante Fervor",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Revenant Systems Blueprint",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "Gladiator Vice",
+				  "chance": "Rare (2.08%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Gara Neuroptics Blueprint",
+				  "chance": "Uncommon (21.43%)"
+				},
+				{
+				  "drop": "Vigilante Fervor",
+				  "chance": "Uncommon (19.05%)"
+				},
+				{
+				  "drop": "Revenant Systems Blueprint",
+				  "chance": "Uncommon (19.05%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Common (35.71%)"
+				},
+				{
+				  "drop": "Gladiator Vice",
+				  "chance": "Rare (4.76%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 30 - 50 Cetus Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Gladiator Rush",
+				  "chance": "Common (35.19%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Common (35.19%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Gladiator Rush",
+				  "chance": "Uncommon (20.21%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (20.21%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Rare (9.57%)"
+				},
+				{
+				  "drop": "Augur Reach",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (15.96%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Gladiator Rush",
+				  "chance": "Uncommon (19.79%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (19.79%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "Augur Reach",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "Vigilante Offense",
+				  "chance": "Rare (2.08%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Uncommon (21.43%)"
+				},
+				{
+				  "drop": "Augur Reach",
+				  "chance": "Uncommon (19.05%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Uncommon (19.05%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Common (35.71%)"
+				},
+				{
+				  "drop": "Vigilante Offense",
+				  "chance": "Rare (4.76%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Vigilante Vigor",
+				  "chance": "Common (35.19%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Common (35.19%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Vigilante Vigor",
+				  "chance": "Uncommon (20.21%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (20.21%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Rare (9.57%)"
+				},
+				{
+				  "drop": "Gladiator Resolve",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Rare (8.51%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (15.96%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Vigilante Vigor",
+				  "chance": "Uncommon (19.79%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (19.79%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "Gladiator Resolve",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "Augur Secrets",
+				  "chance": "Rare (2.08%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Uncommon (21.43%)"
+				},
+				{
+				  "drop": "Gladiator Resolve",
+				  "chance": "Uncommon (19.05%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Uncommon (19.05%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Common (35.71%)"
+				},
+				{
+				  "drop": "Augur Secrets",
+				  "chance": "Rare (4.76%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Augur Message",
+				  "chance": "Uncommon (29.31%)"
+				},
+				{
+				  "drop": "100X Kuva",
+				  "chance": "Uncommon (27.59%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (29.31%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Augur Message",
+				  "chance": "Uncommon (17.71%)"
+				},
+				{
+				  "drop": "100X Kuva",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (17.71%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Vigilante Pursuit",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (14.58%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Augur Message",
+				  "chance": "Uncommon (17.35%)"
+				},
+				{
+				  "drop": "100X Kuva",
+				  "chance": "Uncommon (16.33%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (17.35%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Vigilante Pursuit",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (14.29%)"
+				},
+				{
+				  "drop": "Gladiator Finesse",
+				  "chance": "Rare (2.04%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Vigilante Pursuit",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Common (35.00%)"
+				},
+				{
+				  "drop": "Gladiator Finesse",
+				  "chance": "Rare (5.00%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 40 - 60 Cetus Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (17.39%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (6.09%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (33.04%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (13.51%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.68%)"
+				},
+				{
+				  "drop": "Furax Wraith Left Gauntlet",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Carving Mantis",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Rare (6.76%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (20.41%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (38.78%)"
+				},
+				{
+				  "drop": "Furax Wraith Left Gauntlet",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Carving Mantis",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Uncommon (10.20%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (17.39%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (6.09%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (33.04%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (13.51%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.68%)"
+				},
+				{
+				  "drop": "Furax Wraith Right Gauntlet",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Swooping Falcon",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Rare (6.76%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (20.41%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (38.78%)"
+				},
+				{
+				  "drop": "Furax Wraith Right Gauntlet",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Swooping Falcon",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Uncommon (10.20%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (17.39%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (6.09%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (33.04%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (13.51%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.68%)"
+				},
+				{
+				  "drop": "Furax Wraith Blueprint",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Twirling Spire",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Rare (6.76%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (20.41%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (38.78%)"
+				},
+				{
+				  "drop": "Furax Wraith Blueprint",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Twirling Spire",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Uncommon (10.20%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 100 - 100 Cetus Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (17.39%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (6.09%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (33.04%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (13.51%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.68%)"
+				},
+				{
+				  "drop": "Furax Wraith Left Gauntlet",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Carving Mantis",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Rare (6.76%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (20.41%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (38.78%)"
+				},
+				{
+				  "drop": "Furax Wraith Left Gauntlet",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Carving Mantis",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Uncommon (10.20%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (17.39%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (6.09%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (33.04%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (13.51%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.68%)"
+				},
+				{
+				  "drop": "Furax Wraith Right Gauntlet",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Swooping Falcon",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Rare (6.76%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (20.41%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (38.78%)"
+				},
+				{
+				  "drop": "Furax Wraith Right Gauntlet",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Swooping Falcon",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Uncommon (10.20%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (21.74%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (17.39%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (6.09%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (33.04%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (16.89%)"
+				},
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (13.51%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.68%)"
+				},
+				{
+				  "drop": "Furax Wraith Blueprint",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Twirling Spire",
+				  "chance": "Rare (5.41%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (4.73%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Rare (6.76%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "2X Cetus Wisp",
+				  "chance": "Uncommon (20.41%)"
+				},
+				{
+				  "drop": "300X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (38.78%)"
+				},
+				{
+				  "drop": "Furax Wraith Blueprint",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Twirling Spire",
+				  "chance": "Rare (8.16%)"
+				},
+				{
+				  "drop": "Eidolon Lens Blueprint",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Revenant Neuroptics Blueprint",
+				  "chance": "Uncommon (10.20%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 15 - 25 Ghoul Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "300 Endo",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Hunter Adrenaline",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (11.74%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (11.74%)"
+				},
+				{
+				  "drop": "Hunter Adrenaline",
+				  "chance": "Uncommon (11.74%)"
+				},
+				{
+				  "drop": "Encrypted Journal Fragment",
+				  "chance": "Uncommon (18.78%)"
+				},
+				{
+				  "drop": "Hunter Munitions",
+				  "chance": "Rare (9.39%)"
+				},
+				{
+				  "drop": "Stubba Blueprint",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Rare (9.39%)"
+				},
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Uncommon (17.84%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (10.29%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (10.29%)"
+				},
+				{
+				  "drop": "Hunter Adrenaline",
+				  "chance": "Uncommon (10.29%)"
+				},
+				{
+				  "drop": "Encrypted Journal Fragment",
+				  "chance": "Uncommon (16.46%)"
+				},
+				{
+				  "drop": "Hunter Munitions",
+				  "chance": "Rare (8.23%)"
+				},
+				{
+				  "drop": "Stubba Blueprint",
+				  "chance": "Rare (4.12%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Rare (8.23%)"
+				},
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Rare (4.12%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Uncommon (15.64%)"
+				},
+				{
+				  "drop": "Hunter Track",
+				  "chance": "Rare (8.23%)"
+				},
+				{
+				  "drop": "Nitain Extract",
+				  "chance": "Rare (4.12%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Encrypted Journal Fragment",
+				  "chance": "Uncommon (23.81%)"
+				},
+				{
+				  "drop": "Hunter Munitions",
+				  "chance": "Uncommon (11.90%)"
+				},
+				{
+				  "drop": "Stubba Blueprint",
+				  "chance": "Rare (5.95%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Uncommon (11.90%)"
+				},
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Rare (5.95%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Uncommon (22.62%)"
+				},
+				{
+				  "drop": "Hunter Track",
+				  "chance": "Uncommon (11.90%)"
+				},
+				{
+				  "drop": "Nitain Extract",
+				  "chance": "Rare (5.95%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 40 - 50 Ghoul Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "300 Endo",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Hunter Recovery",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (11.74%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (11.74%)"
+				},
+				{
+				  "drop": "Hunter Recovery",
+				  "chance": "Uncommon (11.74%)"
+				},
+				{
+				  "drop": "Encrypted Journal Fragment",
+				  "chance": "Uncommon (18.78%)"
+				},
+				{
+				  "drop": "Hunter Synergy",
+				  "chance": "Rare (9.39%)"
+				},
+				{
+				  "drop": "Quartakk Blueprint",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Rare (9.39%)"
+				},
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Uncommon (17.84%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (10.29%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (10.29%)"
+				},
+				{
+				  "drop": "Hunter Recovery",
+				  "chance": "Uncommon (10.29%)"
+				},
+				{
+				  "drop": "Encrypted Journal Fragment",
+				  "chance": "Uncommon (16.46%)"
+				},
+				{
+				  "drop": "Hunter Synergy",
+				  "chance": "Rare (8.23%)"
+				},
+				{
+				  "drop": "Quartakk Blueprint",
+				  "chance": "Rare (4.12%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Rare (8.23%)"
+				},
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Rare (4.12%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Uncommon (15.64%)"
+				},
+				{
+				  "drop": "Hunter Command",
+				  "chance": "Rare (8.23%)"
+				},
+				{
+				  "drop": "Nitain Extract",
+				  "chance": "Rare (4.12%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Encrypted Journal Fragment",
+				  "chance": "Uncommon (23.81%)"
+				},
+				{
+				  "drop": "Hunter Synergy",
+				  "chance": "Uncommon (11.90%)"
+				},
+				{
+				  "drop": "Quartakk Blueprint",
+				  "chance": "Rare (5.95%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Uncommon (11.90%)"
+				},
+				{
+				  "drop": "5X Breath Of The Eidolon",
+				  "chance": "Rare (5.95%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Uncommon (22.62%)"
+				},
+				{
+				  "drop": "Hunter Command",
+				  "chance": "Uncommon (11.90%)"
+				},
+				{
+				  "drop": "Nitain Extract",
+				  "chance": "Rare (5.95%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 15 - 25 Plague Star",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Augur Message",
+				  "chance": "Uncommon (24.72%)"
+				},
+				{
+				  "drop": "100X Kuva",
+				  "chance": "Uncommon (23.60%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Uncommon (14.61%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (24.72%)"
+				},
+				{
+				  "drop": "Lith T7 Relic",
+				  "chance": "Ultra Rare (1.12%)"
+				},
+				{
+				  "drop": "Lith N7 Relic",
+				  "chance": "Ultra Rare (1.12%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Ultra Rare (1.12%)"
+				},
+				{
+				  "drop": "Meso S10 Relic",
+				  "chance": "Ultra Rare (1.12%)"
+				},
+				{
+				  "drop": "Meso B6 Relic",
+				  "chance": "Ultra Rare (1.12%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Ultra Rare (1.12%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Ultra Rare (1.12%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Ultra Rare (1.12%)"
+				},
+				{
+				  "drop": "Axi A14 Relic",
+				  "chance": "Ultra Rare (1.12%)"
+				},
+				{
+				  "drop": "Axi I2 Relic",
+				  "chance": "Ultra Rare (1.12%)"
+				},
+				{
+				  "drop": "Axi M2 Relic",
+				  "chance": "Ultra Rare (1.12%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Augur Message",
+				  "chance": "Uncommon (12.79%)"
+				},
+				{
+				  "drop": "100X Kuva",
+				  "chance": "Uncommon (12.21%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Rare (7.56%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (12.79%)"
+				},
+				{
+				  "drop": "Lith T7 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Lith N7 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Meso S10 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Meso B6 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Axi A14 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Axi I2 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Axi M2 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Uncommon (13.95%)"
+				},
+				{
+				  "drop": "Vigilante Pursuit",
+				  "chance": "Uncommon (13.95%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Uncommon (13.95%)"
+				},
+				{
+				  "drop": "Lith T7 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Lith N7 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Meso S10 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Meso B6 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Axi A14 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Axi I2 Relic",
+				  "chance": "Legendary (0.58%)"
+				},
+				{
+				  "drop": "Axi M2 Relic",
+				  "chance": "Legendary (0.58%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Augur Message",
+				  "chance": "Rare (9.24%)"
+				},
+				{
+				  "drop": "100X Kuva",
+				  "chance": "Rare (8.82%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Rare (5.46%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Rare (9.24%)"
+				},
+				{
+				  "drop": "Lith T7 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Lith N7 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Meso S10 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Meso B6 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Axi A14 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Axi I2 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Axi M2 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Uncommon (10.08%)"
+				},
+				{
+				  "drop": "Vigilante Pursuit",
+				  "chance": "Uncommon (10.08%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Uncommon (10.08%)"
+				},
+				{
+				  "drop": "Lith T7 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Lith N7 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Meso S10 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Meso B6 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Axi A14 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Axi I2 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Axi M2 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Gladiator Finesse",
+				  "chance": "Uncommon (23.11%)"
+				},
+				{
+				  "drop": "Lith T7 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Lith N7 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Meso S10 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Meso B6 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Axi A14 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Axi I2 Relic",
+				  "chance": "Legendary (0.42%)"
+				},
+				{
+				  "drop": "Axi M2 Relic",
+				  "chance": "Legendary (0.42%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Cetus Wisp",
+				  "chance": "Uncommon (16.11%)"
+				},
+				{
+				  "drop": "Vigilante Pursuit",
+				  "chance": "Uncommon (16.11%)"
+				},
+				{
+				  "drop": "Revenant Chassis Blueprint",
+				  "chance": "Uncommon (16.11%)"
+				},
+				{
+				  "drop": "Lith T7 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Lith N7 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Meso S10 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Meso B6 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Axi A14 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Axi I2 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Axi M2 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Gladiator Finesse",
+				  "chance": "Common (36.91%)"
+				},
+				{
+				  "drop": "Lith T7 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Lith N7 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Meso S10 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Meso B6 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Axi A14 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Axi I2 Relic",
+				  "chance": "Legendary (0.67%)"
+				},
+				{
+				  "drop": "Axi M2 Relic",
+				  "chance": "Legendary (0.67%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	}
+  ]

@@ -163,6 +163,97 @@ function mapRelics(simpleTableMap) {
 	return relics
 }
 
+class DropChance {
+	constructor (mutilatedDOMNode) {
+		this.drop = mutilatedDOMNode[1].innerText,
+		this.chance = mutilatedDOMNode[2].innerText
+	}
+}
+
+function mapBountyTable(id) {
+	class BountyStage {
+		constructor (mutilatedDOMNodes) {
+			this.stage = mutilatedDOMNodes[1].innerText, this.drops = []
+		}
+		addDrop (drop) { this.drops.push(drop) }
+	}
+	
+	class BountyRotation {
+		constructor (mutilatedDOMNodes) {
+			this.rotation = mutilatedDOMNodes[0].innerText, this.stages = []
+		}
+		addStage (stage) { this.stages.push(stage) }
+	}
+	
+	class ProfitTakerRotation extends BountyRotation {
+		constructor (mutilatedDOMNodes) {
+			super (mutilatedDOMNodes)
+		}
+	}
+	
+	class Bounty {
+		constructor (mutilatedDOMNodes) {
+			this.bounty = mutilatedDOMNodes[0].innerText, this.rotations = []
+		}
+		addRotation (rotation) { this.rotations.push(rotation) }
+	}
+	let Table = Array.from(document.getElementById(id).nextElementSibling.children[0].children)
+	let TableNoFalsyProps = Table.map(cleanNonZeroFalsyProperties)
+	let TableByCells = TableNoFalsyProps.map(n => { 
+		const cellArray = Array.from(n.cells) 
+		const cleanCellArray = cellArray.map(cleanNonZeroFalsyProperties)
+		return cleanCellArray
+	})
+	let chances = TableByCells.map(n => {
+		if (n.length === 3) {
+			return {
+				drop: n[1].innerText,
+				chance: n[2].innerText
+			}
+		}
+		if (n.length === 2) { return new BountyStage(n) }
+		let singleColumnText = n[0].innerText?.toLowerCase()
+		if (singleColumnText && (singleColumnText.includes('rotation')) ) { return new BountyRotation(n) }
+		if (singleColumnText && (singleColumnText.includes('phase') || singleColumnText.includes('completion')) ) { return new ProfitTakerRotation(n) }
+		if (singleColumnText) { return new Bounty(n) }
+		return n
+	})
+	const stages = []
+	for (const item of chances) {
+		if (item.constructor.name !== 'Object') { stages.push(item) }
+		else { stages[stages.length - 1].addDrop(item) }
+	}
+	const rotations = []
+	for (const item of stages) {
+		if (item.constructor.name !== 'BountyStage') { rotations.push(item) }
+		else { rotations[rotations.length - 1].addStage(item) }
+	}
+	const bounties = []
+	const other = []
+	for (const item of rotations) {
+		if ((item.constructor.name === 'ProfitTakerRotation')) { other.push(item) }
+		else if (item.constructor.name !== 'BountyRotation') { bounties.push(item) }
+		else { bounties[bounties.length - 1].addRotation(item) }
+	}
+	if (other.length) {
+		other[3].rotation = `${other[2].rotation} (${other[3].rotation})`
+		other[4].rotation = `${other[2].rotation} (${other[4].rotation})`
+		other.splice(2, 1)	
+	}
+	const separatorsRemoved = bounties.filter(n => n.constructor.name === 'Bounty')
+	return [...separatorsRemoved, ...other]
+}
+
+console.log(mapBountyTable("cetusRewards"))
+console.log(mapBountyTable("solarisRewards"))
+console.log(mapBountyTable("deimosRewards"))
+
+console.log(JSON.stringify(mapBountyTable("cetusRewards"), null, 2))
+console.log(JSON.stringify(mapBountyTable("solarisRewards"), null, 2))
+console.log(JSON.stringify(mapBountyTable("deimosRewards"), null, 2))
+
+
+
 console.log(mapMissions(mapSimpleTables("missionRewards")))
 console.log(mapMissions(mapSimpleTables("keyRewards")))
 console.log(mapMissions(mapSimpleTables("transientRewards")))

@@ -1,0 +1,2212 @@
+[
+	{
+	  "bounty": "Level 5 - 15 Orb Vallis Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "100X Oxium",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "5X Mytocardia Spore",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2X Training Debt-Bond",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "100X Oxium",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "5X Mytocardia Spore",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "2X Training Debt-Bond",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "Garuda Chassis Blueprint",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "3,000 Credits Cache",
+				  "chance": "Rare (7.52%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "100X Oxium",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "5X Mytocardia Spore",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "2X Training Debt-Bond",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "Garuda Chassis Blueprint",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "3,000 Credits Cache",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (2.01%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Garuda Chassis Blueprint",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "3,000 Credits Cache",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "100X Cryotic",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "5X Thermal Sludge",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2X Training Debt-Bond",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "100X Cryotic",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "5X Thermal Sludge",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "2X Training Debt-Bond",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "Garuda Chassis Blueprint",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "3,000 Credits Cache",
+				  "chance": "Rare (7.52%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "100X Cryotic",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "5X Thermal Sludge",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "2X Training Debt-Bond",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "Garuda Chassis Blueprint",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "3,000 Credits Cache",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (2.01%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Garuda Chassis Blueprint",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "3,000 Credits Cache",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "100X Plastids",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "5X Gorgaricus Spore",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2X Training Debt-Bond",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "100X Plastids",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "5X Gorgaricus Spore",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "2X Training Debt-Bond",
+				  "chance": "Uncommon (15.49%)"
+				},
+				{
+				  "drop": "Garuda Chassis Blueprint",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "3,000 Credits Cache",
+				  "chance": "Rare (7.52%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "100X Plastids",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "1,500 Credits Cache",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "50 Endo",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "5X Gorgaricus Spore",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "2X Training Debt-Bond",
+				  "chance": "Uncommon (15.18%)"
+				},
+				{
+				  "drop": "Garuda Chassis Blueprint",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "3,000 Credits Cache",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (2.01%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Garuda Chassis Blueprint",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "3,000 Credits Cache",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 10 - 30 Orb Vallis Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "15X Mytocardia Spore",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "200X Oxium",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2X Shelter Debt-Bond",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "15X Mytocardia Spore",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "200X Oxium",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "2X Shelter Debt-Bond",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "Garuda Systems Blueprint",
+				  "chance": "Rare (7.41%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (7.41%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (11.11%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "15X Mytocardia Spore",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "200X Oxium",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "2X Shelter Debt-Bond",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "Garuda Systems Blueprint",
+				  "chance": "Rare (6.90%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (6.90%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (10.34%)"
+				},
+				{
+				  "drop": "Synth Charge",
+				  "chance": "Rare (6.90%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Garuda Systems Blueprint",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Synth Charge",
+				  "chance": "Uncommon (22.22%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "15X Thermal Sludge",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "200X Cryotic",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2X Shelter Debt-Bond",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "15X Thermal Sludge",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "200X Cryotic",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "2X Shelter Debt-Bond",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "Garuda Systems Blueprint",
+				  "chance": "Rare (7.41%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (7.41%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (11.11%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "15X Thermal Sludge",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "200X Cryotic",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "2X Shelter Debt-Bond",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "Garuda Systems Blueprint",
+				  "chance": "Rare (6.90%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (6.90%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (10.34%)"
+				},
+				{
+				  "drop": "Mecha Overdrive",
+				  "chance": "Rare (6.90%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Garuda Systems Blueprint",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Mecha Overdrive",
+				  "chance": "Uncommon (22.22%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "15X Gorgaricus Spore",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "200X Nano Spores",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2X Shelter Debt-Bond",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "15X Gorgaricus Spore",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "200X Nano Spores",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "2X Shelter Debt-Bond",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "Garuda Systems Blueprint",
+				  "chance": "Rare (7.41%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (7.41%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (11.11%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "15X Gorgaricus Spore",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "200X Nano Spores",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "2,500 Credits Cache",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "100 Endo",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "2X Shelter Debt-Bond",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "Garuda Systems Blueprint",
+				  "chance": "Rare (6.90%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Rare (6.90%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (10.34%)"
+				},
+				{
+				  "drop": "Tek Assault",
+				  "chance": "Rare (6.90%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Garuda Systems Blueprint",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "5X Tepa Nodule",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Tek Assault",
+				  "chance": "Uncommon (22.22%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 20 - 40 Orb Vallis Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Common (40.00%)"
+				},
+				{
+				  "drop": "300X Circuits",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2X Medical Debt-Bond",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "300X Circuits",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "2X Medical Debt-Bond",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Garuda Neuroptics Blueprint",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "300X Circuits",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "2X Medical Debt-Bond",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "Garuda Neuroptics Blueprint",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "Synth Deconstruct",
+				  "chance": "Uncommon (11.11%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Garuda Neuroptics Blueprint",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Synth Deconstruct",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Common (40.00%)"
+				},
+				{
+				  "drop": "300X Plastids",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2X Medical Debt-Bond",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "300X Plastids",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "2X Medical Debt-Bond",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Garuda Neuroptics Blueprint",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "300X Plastids",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "2X Medical Debt-Bond",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "Garuda Neuroptics Blueprint",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "Mecha Recharge",
+				  "chance": "Uncommon (11.11%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Garuda Neuroptics Blueprint",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Mecha Recharge",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Common (40.00%)"
+				},
+				{
+				  "drop": "300X Rubedo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "2X Medical Debt-Bond",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "300X Rubedo",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "2X Medical Debt-Bond",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Garuda Neuroptics Blueprint",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "200 Endo",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "300X Rubedo",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "2X Medical Debt-Bond",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "Garuda Neuroptics Blueprint",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "Tek Enhance",
+				  "chance": "Uncommon (11.11%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Garuda Neuroptics Blueprint",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Tek Enhance",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 30 - 50 Orb Vallis Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "2X Fieldron",
+				  "chance": "Uncommon (29.03%)"
+				},
+				{
+				  "drop": "2X Advances Debt-Bond",
+				  "chance": "Uncommon (19.35%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Uncommon (19.75%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (19.75%)"
+				},
+				{
+				  "drop": "2X Fieldron",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "2X Advances Debt-Bond",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (18.52%)"
+				},
+				{
+				  "drop": "Tellurium",
+				  "chance": "Rare (4.94%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Uncommon (17.58%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (17.58%)"
+				},
+				{
+				  "drop": "2X Fieldron",
+				  "chance": "Uncommon (19.78%)"
+				},
+				{
+				  "drop": "2X Advances Debt-Bond",
+				  "chance": "Uncommon (13.19%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (16.48%)"
+				},
+				{
+				  "drop": "Tellurium",
+				  "chance": "Rare (4.40%)"
+				},
+				{
+				  "drop": "Synth Fiber",
+				  "chance": "Uncommon (10.99%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Common (51.72%)"
+				},
+				{
+				  "drop": "Tellurium",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "Synth Fiber",
+				  "chance": "Common (34.48%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "2X Detonite Injector",
+				  "chance": "Uncommon (29.03%)"
+				},
+				{
+				  "drop": "2X Advances Debt-Bond",
+				  "chance": "Uncommon (19.35%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Uncommon (19.75%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (19.75%)"
+				},
+				{
+				  "drop": "2X Detonite Injector",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "2X Advances Debt-Bond",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (18.52%)"
+				},
+				{
+				  "drop": "Tellurium",
+				  "chance": "Rare (4.94%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Uncommon (17.58%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (17.58%)"
+				},
+				{
+				  "drop": "2X Detonite Injector",
+				  "chance": "Uncommon (19.78%)"
+				},
+				{
+				  "drop": "2X Advances Debt-Bond",
+				  "chance": "Uncommon (13.19%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (16.48%)"
+				},
+				{
+				  "drop": "Tellurium",
+				  "chance": "Rare (4.40%)"
+				},
+				{
+				  "drop": "Mecha Empowered",
+				  "chance": "Uncommon (10.99%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Common (51.72%)"
+				},
+				{
+				  "drop": "Tellurium",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "Mecha Empowered",
+				  "chance": "Common (34.48%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "200X Kuva",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "2X Mutagen Mass",
+				  "chance": "Uncommon (29.03%)"
+				},
+				{
+				  "drop": "2X Advances Debt-Bond",
+				  "chance": "Uncommon (19.35%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "200X Kuva",
+				  "chance": "Uncommon (19.75%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (19.75%)"
+				},
+				{
+				  "drop": "2X Mutagen Mass",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "2X Advances Debt-Bond",
+				  "chance": "Uncommon (14.81%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (18.52%)"
+				},
+				{
+				  "drop": "Tellurium",
+				  "chance": "Rare (4.94%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "200X Kuva",
+				  "chance": "Uncommon (17.58%)"
+				},
+				{
+				  "drop": "300 Endo",
+				  "chance": "Uncommon (17.58%)"
+				},
+				{
+				  "drop": "2X Mutagen Mass",
+				  "chance": "Uncommon (19.78%)"
+				},
+				{
+				  "drop": "2X Advances Debt-Bond",
+				  "chance": "Uncommon (13.19%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (16.48%)"
+				},
+				{
+				  "drop": "Tellurium",
+				  "chance": "Rare (4.40%)"
+				},
+				{
+				  "drop": "Tek Gravity",
+				  "chance": "Uncommon (10.99%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Common (51.72%)"
+				},
+				{
+				  "drop": "Tellurium",
+				  "chance": "Uncommon (13.79%)"
+				},
+				{
+				  "drop": "Tek Gravity",
+				  "chance": "Common (34.48%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 40 - 60 Orb Vallis Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (14.29%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (14.29%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (21.43%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Synth Reflex",
+				  "chance": "Uncommon (14.29%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Synth Reflex",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (14.29%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (14.29%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (21.43%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Mecha Pulse",
+				  "chance": "Uncommon (14.29%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Mecha Pulse",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Neurodes",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Orokin Cell",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Neurodes",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Orokin Cell",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "Neurodes",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Orokin Cell",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (14.29%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (21.43%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Tek Collateral",
+				  "chance": "Uncommon (14.29%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Tek Collateral",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 100 - 100 Orb Vallis Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (14.29%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (14.29%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (21.43%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Synth Reflex",
+				  "chance": "Uncommon (14.29%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Synth Reflex",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (14.29%)"
+				},
+				{
+				  "drop": "10,000 Credits Cache",
+				  "chance": "Uncommon (14.29%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (21.43%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Mecha Pulse",
+				  "chance": "Uncommon (14.29%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Mecha Pulse",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Neurodes",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Orokin Cell",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (25.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Neurodes",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Orokin Cell",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "400 Endo",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "Neurodes",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Orokin Cell",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "2X Familial Debt-Bond",
+				  "chance": "Uncommon (14.29%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (21.43%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Tek Collateral",
+				  "chance": "Uncommon (14.29%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "500X Kuva",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "Tek Collateral",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "rotation": "Level 40 - 60 PROFIT-TAKER - PHASE 1",
+	  "stages": [
+		{
+		  "stage": "Final Stage",
+		  "drops": [
+			{
+			  "drop": "5X Gyromag Systems",
+			  "chance": "Uncommon (25.00%)"
+			},
+			{
+			  "drop": "Lith G4 Relic (Radiant)",
+			  "chance": "Uncommon (15.00%)"
+			},
+			{
+			  "drop": "Quick Reload",
+			  "chance": "Uncommon (15.00%)"
+			},
+			{
+			  "drop": "5X Atmo Systems",
+			  "chance": "Uncommon (10.00%)"
+			},
+			{
+			  "drop": "3X Vega Toroid",
+			  "chance": "Uncommon (12.50%)"
+			},
+			{
+			  "drop": "Lith T7 Relic (Radiant)",
+			  "chance": "Uncommon (12.50%)"
+			},
+			{
+			  "drop": "3X Repeller Systems",
+			  "chance": "Rare (7.50%)"
+			},
+			{
+			  "drop": "Deadly Efficiency",
+			  "chance": "Ultra Rare (1.25%)"
+			},
+			{
+			  "drop": "Strain Eruption",
+			  "chance": "Ultra Rare (1.25%)"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "rotation": "Level 40 - 60 PROFIT-TAKER - PHASE 2",
+	  "stages": [
+		{
+		  "stage": "Final Stage",
+		  "drops": [
+			{
+			  "drop": "5X Gyromag Systems",
+			  "chance": "Uncommon (25.00%)"
+			},
+			{
+			  "drop": "Lith K7 Relic (Radiant)",
+			  "chance": "Uncommon (15.00%)"
+			},
+			{
+			  "drop": "Resolute Focus",
+			  "chance": "Uncommon (15.00%)"
+			},
+			{
+			  "drop": "5X Atmo Systems",
+			  "chance": "Uncommon (10.00%)"
+			},
+			{
+			  "drop": "3X Calda Toroid",
+			  "chance": "Uncommon (12.50%)"
+			},
+			{
+			  "drop": "Meso P4 Relic (Radiant)",
+			  "chance": "Uncommon (12.50%)"
+			},
+			{
+			  "drop": "3X Repeller Systems",
+			  "chance": "Rare (7.50%)"
+			},
+			{
+			  "drop": "Archgun Ace",
+			  "chance": "Ultra Rare (1.25%)"
+			},
+			{
+			  "drop": "Strain Fever",
+			  "chance": "Ultra Rare (1.25%)"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "rotation": "Level 40 - 60 PROFIT-TAKER - PHASE 3 (First Completion)",
+	  "stages": [
+		{
+		  "stage": "Final Stage",
+		  "drops": [
+			{
+			  "drop": "Gravimag",
+			  "chance": "Very Common (100.00%)"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "rotation": "Level 40 - 60 PROFIT-TAKER - PHASE 3 (Subsequent Completions)",
+	  "stages": [
+		{
+		  "stage": "Final Stage",
+		  "drops": [
+			{
+			  "drop": "5X Gyromag Systems",
+			  "chance": "Uncommon (25.00%)"
+			},
+			{
+			  "drop": "Meso B5 Relic (Radiant)",
+			  "chance": "Uncommon (15.00%)"
+			},
+			{
+			  "drop": "Marked Target",
+			  "chance": "Uncommon (15.00%)"
+			},
+			{
+			  "drop": "5X Atmo Systems",
+			  "chance": "Uncommon (10.00%)"
+			},
+			{
+			  "drop": "3X Sola Toroid",
+			  "chance": "Uncommon (12.50%)"
+			},
+			{
+			  "drop": "Neo N16 Relic (Radiant)",
+			  "chance": "Uncommon (12.50%)"
+			},
+			{
+			  "drop": "3X Repeller Systems",
+			  "chance": "Rare (7.50%)"
+			},
+			{
+			  "drop": "Sabot Rounds",
+			  "chance": "Ultra Rare (1.25%)"
+			},
+			{
+			  "drop": "Strain Infection",
+			  "chance": "Ultra Rare (1.25%)"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "rotation": "Level 50 - 60 PROFIT-TAKER - PHASE 4",
+	  "stages": [
+		{
+		  "stage": "Final Stage",
+		  "drops": [
+			{
+			  "drop": "5X Gyromag Systems",
+			  "chance": "Uncommon (28.57%)"
+			},
+			{
+			  "drop": "Neo T4 Relic (Radiant)",
+			  "chance": "Uncommon (17.14%)"
+			},
+			{
+			  "drop": "Ammo Chain",
+			  "chance": "Uncommon (17.14%)"
+			},
+			{
+			  "drop": "5X Atmo Systems",
+			  "chance": "Uncommon (11.43%)"
+			},
+			{
+			  "drop": "Axi O5 Relic (Radiant)",
+			  "chance": "Uncommon (14.29%)"
+			},
+			{
+			  "drop": "3X Repeller Systems",
+			  "chance": "Rare (8.57%)"
+			},
+			{
+			  "drop": "Critical Focus",
+			  "chance": "Ultra Rare (1.43%)"
+			},
+			{
+			  "drop": "Strain Consume",
+			  "chance": "Ultra Rare (1.43%)"
+			}
+		  ]
+		}
+	  ]
+	}
+  ]

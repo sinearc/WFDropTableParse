@@ -1,0 +1,4250 @@
+[
+	{
+	  "bounty": "Level 5 - 15 Cambion Drift Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "3X 1,500 Credits Cache",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "150 Endo",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "15X Ganglion",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "3X 1,500 Credits Cache",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "150 Endo",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "15X Ganglion",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "2X 3,000 Credits Cache",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (7.52%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "3X 1,500 Credits Cache",
+				  "chance": "Uncommon (25.29%)"
+				},
+				{
+				  "drop": "150 Endo",
+				  "chance": "Uncommon (25.29%)"
+				},
+				{
+				  "drop": "15X Ganglion",
+				  "chance": "Uncommon (25.29%)"
+				},
+				{
+				  "drop": "2X 3,000 Credits Cache",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (2.01%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "2X 3,000 Credits Cache",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "3X 1,500 Credits Cache",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "150 Endo",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "15X Pustulite",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "3X 1,500 Credits Cache",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "150 Endo",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "15X Pustulite",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "2X 3,000 Credits Cache",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (7.52%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "3X 1,500 Credits Cache",
+				  "chance": "Uncommon (25.29%)"
+				},
+				{
+				  "drop": "150 Endo",
+				  "chance": "Uncommon (25.29%)"
+				},
+				{
+				  "drop": "15X Pustulite",
+				  "chance": "Uncommon (25.29%)"
+				},
+				{
+				  "drop": "2X 3,000 Credits Cache",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (2.01%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "2X 3,000 Credits Cache",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "3X 1,500 Credits Cache",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "150 Endo",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "15X Lucent Teroglobe",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "3X 1,500 Credits Cache",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "150 Endo",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "15X Lucent Teroglobe",
+				  "chance": "Uncommon (25.81%)"
+				},
+				{
+				  "drop": "2X 3,000 Credits Cache",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Rare (7.52%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (7.52%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "3X 1,500 Credits Cache",
+				  "chance": "Uncommon (25.29%)"
+				},
+				{
+				  "drop": "150 Endo",
+				  "chance": "Uncommon (25.29%)"
+				},
+				{
+				  "drop": "15X Lucent Teroglobe",
+				  "chance": "Uncommon (25.29%)"
+				},
+				{
+				  "drop": "2X 3,000 Credits Cache",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (7.37%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (2.01%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "2X 3,000 Credits Cache",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (30.56%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (8.33%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 15 - 25 Cambion Drift Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "600 Endo",
+				  "chance": "Uncommon (31.58%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Uncommon (18.42%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Uncommon (18.42%)"
+				},
+				{
+				  "drop": "Catalyzer Link",
+				  "chance": "Uncommon (13.16%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Uncommon (18.42%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "600 Endo",
+				  "chance": "Uncommon (15.38%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Catalyzer Link",
+				  "chance": "Rare (6.41%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (25.64%)"
+				},
+				{
+				  "drop": "Xaku Neuroptics Blueprint",
+				  "chance": "Rare (7.69%)"
+				},
+				{
+				  "drop": "Weeping Wounds",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Embedded Catalyzer",
+				  "chance": "Rare (8.97%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "600 Endo",
+				  "chance": "Uncommon (12.24%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Catalyzer Link",
+				  "chance": "Rare (5.10%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (20.41%)"
+				},
+				{
+				  "drop": "Xaku Neuroptics Blueprint",
+				  "chance": "Rare (6.12%)"
+				},
+				{
+				  "drop": "Weeping Wounds",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Embedded Catalyzer",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Nano-Applicator",
+				  "chance": "Uncommon (20.41%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Xaku Neuroptics Blueprint",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Weeping Wounds",
+				  "chance": "Uncommon (11.67%)"
+				},
+				{
+				  "drop": "Embedded Catalyzer",
+				  "chance": "Uncommon (11.67%)"
+				},
+				{
+				  "drop": "Nano-Applicator",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "600 Endo",
+				  "chance": "Uncommon (31.58%)"
+				},
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Uncommon (18.42%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Uncommon (18.42%)"
+				},
+				{
+				  "drop": "Shrapnel Shot",
+				  "chance": "Uncommon (13.16%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Uncommon (18.42%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "600 Endo",
+				  "chance": "Uncommon (15.38%)"
+				},
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Shrapnel Shot",
+				  "chance": "Rare (6.41%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (25.64%)"
+				},
+				{
+				  "drop": "Xaku Neuroptics Blueprint",
+				  "chance": "Rare (7.69%)"
+				},
+				{
+				  "drop": "Sharpened Bullets",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Bladed Rounds",
+				  "chance": "Rare (8.97%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "600 Endo",
+				  "chance": "Uncommon (12.24%)"
+				},
+				{
+				  "drop": "Vazarin Lens",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Shrapnel Shot",
+				  "chance": "Rare (5.10%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (20.41%)"
+				},
+				{
+				  "drop": "Xaku Neuroptics Blueprint",
+				  "chance": "Rare (6.12%)"
+				},
+				{
+				  "drop": "Sharpened Bullets",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Bladed Rounds",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Maiming Strike",
+				  "chance": "Uncommon (20.41%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Xaku Neuroptics Blueprint",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Sharpened Bullets",
+				  "chance": "Uncommon (11.67%)"
+				},
+				{
+				  "drop": "Bladed Rounds",
+				  "chance": "Uncommon (11.67%)"
+				},
+				{
+				  "drop": "Maiming Strike",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "600 Endo",
+				  "chance": "Uncommon (31.58%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Uncommon (18.42%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Uncommon (18.42%)"
+				},
+				{
+				  "drop": "Body Count",
+				  "chance": "Uncommon (13.16%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Uncommon (18.42%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "600 Endo",
+				  "chance": "Uncommon (15.38%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Body Count",
+				  "chance": "Rare (6.41%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (25.64%)"
+				},
+				{
+				  "drop": "Xaku Neuroptics Blueprint",
+				  "chance": "Rare (7.69%)"
+				},
+				{
+				  "drop": "Spring-Loaded Chamber",
+				  "chance": "Rare (8.97%)"
+				},
+				{
+				  "drop": "Repeater Clip",
+				  "chance": "Rare (8.97%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "600 Endo",
+				  "chance": "Uncommon (12.24%)"
+				},
+				{
+				  "drop": "Naramon Lens",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Zenurik Lens",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Body Count",
+				  "chance": "Rare (5.10%)"
+				},
+				{
+				  "drop": "Scintillant",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (20.41%)"
+				},
+				{
+				  "drop": "Xaku Neuroptics Blueprint",
+				  "chance": "Rare (6.12%)"
+				},
+				{
+				  "drop": "Spring-Loaded Chamber",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Repeater Clip",
+				  "chance": "Rare (7.14%)"
+				},
+				{
+				  "drop": "Pressurized Magazine",
+				  "chance": "Uncommon (20.41%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Xaku Neuroptics Blueprint",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Spring-Loaded Chamber",
+				  "chance": "Uncommon (11.67%)"
+				},
+				{
+				  "drop": "Repeater Clip",
+				  "chance": "Uncommon (11.67%)"
+				},
+				{
+				  "drop": "Pressurized Magazine",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 25 - 30 Cambion Drift Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Carnis Mandible",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Jugulus Barbs",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Saxum Thorax",
+				  "chance": "Rare (5.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Carnis Mandible",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Jugulus Barbs",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Saxum Thorax",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "500 Endo",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Carnis Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Jugulus Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Saxum Carapace",
+				  "chance": "Rare (2.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (3.33%)"
+				},
+				{
+				  "drop": "Carnis Mandible",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Jugulus Barbs",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Saxum Thorax",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "500 Endo",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Rare (3.33%)"
+				},
+				{
+				  "drop": "Carnis Carapace",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Jugulus Carapace",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Saxum Carapace",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "750 Endo",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Rare (3.33%)"
+				},
+				{
+				  "drop": "Carnis Stinger",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Jugulus Spines",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Saxum Spittle",
+				  "chance": "Ultra Rare (1.67%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "500 Endo",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Carnis Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Jugulus Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Saxum Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "750 Endo",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Carnis Stinger",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Jugulus Spines",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Saxum Spittle",
+				  "chance": "Rare (2.50%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Common (40.00%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Carnis Mandible",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Jugulus Barbs",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Saxum Thorax",
+				  "chance": "Rare (5.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (6.94%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Rare (6.94%)"
+				},
+				{
+				  "drop": "Carnis Mandible",
+				  "chance": "Rare (2.78%)"
+				},
+				{
+				  "drop": "Jugulus Barbs",
+				  "chance": "Rare (2.78%)"
+				},
+				{
+				  "drop": "Saxum Thorax",
+				  "chance": "Rare (2.78%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "500 Endo",
+				  "chance": "Uncommon (11.11%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Rare (4.44%)"
+				},
+				{
+				  "drop": "Carnis Carapace",
+				  "chance": "Rare (2.22%)"
+				},
+				{
+				  "drop": "Jugulus Carapace",
+				  "chance": "Rare (2.22%)"
+				},
+				{
+				  "drop": "Saxum Carapace",
+				  "chance": "Rare (2.22%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (15.38%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Rare (7.69%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (4.81%)"
+				},
+				{
+				  "drop": "Meso N6 Relic",
+				  "chance": "Rare (4.81%)"
+				},
+				{
+				  "drop": "Carnis Mandible",
+				  "chance": "Ultra Rare (1.92%)"
+				},
+				{
+				  "drop": "Jugulus Barbs",
+				  "chance": "Ultra Rare (1.92%)"
+				},
+				{
+				  "drop": "Saxum Thorax",
+				  "chance": "Ultra Rare (1.92%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (15.38%)"
+				},
+				{
+				  "drop": "500 Endo",
+				  "chance": "Rare (7.69%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Rare (3.08%)"
+				},
+				{
+				  "drop": "Carnis Carapace",
+				  "chance": "Ultra Rare (1.54%)"
+				},
+				{
+				  "drop": "Jugulus Carapace",
+				  "chance": "Ultra Rare (1.54%)"
+				},
+				{
+				  "drop": "Saxum Carapace",
+				  "chance": "Ultra Rare (1.54%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (15.38%)"
+				},
+				{
+				  "drop": "750 Endo",
+				  "chance": "Rare (7.69%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Rare (3.08%)"
+				},
+				{
+				  "drop": "Carnis Stinger",
+				  "chance": "Ultra Rare (1.54%)"
+				},
+				{
+				  "drop": "Jugulus Spines",
+				  "chance": "Ultra Rare (1.54%)"
+				},
+				{
+				  "drop": "Saxum Spittle",
+				  "chance": "Ultra Rare (1.54%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "500 Endo",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Carnis Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Jugulus Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Saxum Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "750 Endo",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Carnis Stinger",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Jugulus Spines",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Saxum Spittle",
+				  "chance": "Rare (2.50%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Carnis Mandible",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Jugulus Barbs",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Saxum Thorax",
+				  "chance": "Rare (5.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Carnis Mandible",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Jugulus Barbs",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Saxum Thorax",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "500 Endo",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Carnis Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Jugulus Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Saxum Carapace",
+				  "chance": "Rare (2.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "250 Endo",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Lith B4 Relic",
+				  "chance": "Rare (3.33%)"
+				},
+				{
+				  "drop": "Carnis Mandible",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Jugulus Barbs",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Saxum Thorax",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "500 Endo",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Rare (3.33%)"
+				},
+				{
+				  "drop": "Carnis Carapace",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Jugulus Carapace",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Saxum Carapace",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (16.67%)"
+				},
+				{
+				  "drop": "750 Endo",
+				  "chance": "Rare (8.33%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Rare (3.33%)"
+				},
+				{
+				  "drop": "Carnis Stinger",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Jugulus Spines",
+				  "chance": "Ultra Rare (1.67%)"
+				},
+				{
+				  "drop": "Saxum Spittle",
+				  "chance": "Ultra Rare (1.67%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "500 Endo",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Carnis Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Jugulus Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Saxum Carapace",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "750 Endo",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "Carnis Stinger",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Jugulus Spines",
+				  "chance": "Rare (2.50%)"
+				},
+				{
+				  "drop": "Saxum Spittle",
+				  "chance": "Rare (2.50%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 30 - 40 Cambion Drift Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "750 Endo",
+				  "chance": "Common (45.00%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Uncommon (17.50%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Uncommon (17.50%)"
+				},
+				{
+				  "drop": "Hydraulic Crosshairs",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "5X Fass Residue",
+				  "chance": "Rare (7.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "750 Endo",
+				  "chance": "Uncommon (22.50%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Rare (8.75%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Rare (8.75%)"
+				},
+				{
+				  "drop": "Hydraulic Crosshairs",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "5X Fass Residue",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Xaku Systems Blueprint",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Laser Sight",
+				  "chance": "Rare (8.75%)"
+				},
+				{
+				  "drop": "Blood Rush",
+				  "chance": "Rare (8.75%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "750 Endo",
+				  "chance": "Uncommon (18.00%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Rare (7.00%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Rare (7.00%)"
+				},
+				{
+				  "drop": "Hydraulic Crosshairs",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "5X Fass Residue",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Xaku Systems Blueprint",
+				  "chance": "Rare (6.00%)"
+				},
+				{
+				  "drop": "Laser Sight",
+				  "chance": "Rare (7.00%)"
+				},
+				{
+				  "drop": "Blood Rush",
+				  "chance": "Rare (7.00%)"
+				},
+				{
+				  "drop": "Argon Scope",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Xaku Systems Blueprint",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Laser Sight",
+				  "chance": "Uncommon (11.67%)"
+				},
+				{
+				  "drop": "Blood Rush",
+				  "chance": "Uncommon (11.67%)"
+				},
+				{
+				  "drop": "Argon Scope",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "750 Endo",
+				  "chance": "Common (45.00%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Uncommon (17.50%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Uncommon (17.50%)"
+				},
+				{
+				  "drop": "Focused Defense",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "5X Vome Residue",
+				  "chance": "Rare (7.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "750 Endo",
+				  "chance": "Uncommon (22.50%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Rare (8.75%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Rare (8.75%)"
+				},
+				{
+				  "drop": "Focused Defense",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "5X Vome Residue",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Xaku Systems Blueprint",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Targeting Subsystem",
+				  "chance": "Rare (8.75%)"
+				},
+				{
+				  "drop": "Guided Ordnance",
+				  "chance": "Rare (8.75%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "750 Endo",
+				  "chance": "Uncommon (18.00%)"
+				},
+				{
+				  "drop": "Unairu Lens",
+				  "chance": "Rare (7.00%)"
+				},
+				{
+				  "drop": "Madurai Lens",
+				  "chance": "Rare (7.00%)"
+				},
+				{
+				  "drop": "Focused Defense",
+				  "chance": "Rare (5.00%)"
+				},
+				{
+				  "drop": "5X Vome Residue",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Xaku Systems Blueprint",
+				  "chance": "Rare (6.00%)"
+				},
+				{
+				  "drop": "Targeting Subsystem",
+				  "chance": "Rare (7.00%)"
+				},
+				{
+				  "drop": "Guided Ordnance",
+				  "chance": "Rare (7.00%)"
+				},
+				{
+				  "drop": "Narrow Barrel",
+				  "chance": "Uncommon (20.00%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Neo R1 Relic",
+				  "chance": "Common (33.33%)"
+				},
+				{
+				  "drop": "Xaku Systems Blueprint",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Targeting Subsystem",
+				  "chance": "Uncommon (11.67%)"
+				},
+				{
+				  "drop": "Guided Ordnance",
+				  "chance": "Uncommon (11.67%)"
+				},
+				{
+				  "drop": "Narrow Barrel",
+				  "chance": "Common (33.33%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 40 - 60 Cambion Drift Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Common (45.45%)"
+				},
+				{
+				  "drop": "1000 Endo",
+				  "chance": "Common (45.45%)"
+				},
+				{
+				  "drop": "750X Kuva",
+				  "chance": "Rare (9.09%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "1000 Endo",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "750X Kuva",
+				  "chance": "Rare (5.71%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "Xaku Chassis Blueprint",
+				  "chance": "Rare (8.57%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "1000 Endo",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "750X Kuva",
+				  "chance": "Rare (4.44%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "Xaku Chassis Blueprint",
+				  "chance": "Rare (6.67%)"
+				},
+				{
+				  "drop": "Quassus Blueprint",
+				  "chance": "Uncommon (22.22%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (43.48%)"
+				},
+				{
+				  "drop": "Xaku Chassis Blueprint",
+				  "chance": "Uncommon (13.04%)"
+				},
+				{
+				  "drop": "Quassus Blueprint",
+				  "chance": "Common (43.48%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 100 - 100 Cambion Drift Bounty",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Common (45.45%)"
+				},
+				{
+				  "drop": "1000 Endo",
+				  "chance": "Common (45.45%)"
+				},
+				{
+				  "drop": "750X Kuva",
+				  "chance": "Rare (9.09%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "1000 Endo",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "750X Kuva",
+				  "chance": "Rare (5.71%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (28.57%)"
+				},
+				{
+				  "drop": "Xaku Chassis Blueprint",
+				  "chance": "Rare (8.57%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Ayatan Amber Star",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "1000 Endo",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "750X Kuva",
+				  "chance": "Rare (4.44%)"
+				},
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Uncommon (22.22%)"
+				},
+				{
+				  "drop": "Xaku Chassis Blueprint",
+				  "chance": "Rare (6.67%)"
+				},
+				{
+				  "drop": "Quassus Blueprint",
+				  "chance": "Uncommon (22.22%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Axi S3 Relic",
+				  "chance": "Common (43.48%)"
+				},
+				{
+				  "drop": "Xaku Chassis Blueprint",
+				  "chance": "Uncommon (13.04%)"
+				},
+				{
+				  "drop": "Quassus Blueprint",
+				  "chance": "Common (43.48%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 30 - 40 Isolation Vault",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Meso P4 Relic",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Steel Fiber",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Thrusters",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Barrel",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "3X Scintillant",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "2X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Axi O5 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Efficiency",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Thrusters",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Receiver",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "3X Scintillant",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "2X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Neo V10 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Neo P3 Relic",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Reach",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Thrusters",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Stock",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "3X Scintillant",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "2X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Neo P2 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 40 - 50 Isolation Vault",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Neo P2 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Slipstream",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo P2 Relic",
+				  "chance": "Legendary (0.94%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Legendary (0.94%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Seismic Wave",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Barrel",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Rivet",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "3X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Continuity",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Seismic Wave",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Receiver",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Rivet",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "3X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Neo P3 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Meso P4 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Drift",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Seismic Wave",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Stock",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Rivet",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "3X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Axi O5 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 50 - 60 Isolation Vault",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Stretch",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Sporothrix Barrel",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Legendary (0.94%)"
+				},
+				{
+				  "drop": "Neo V10 Relic",
+				  "chance": "Legendary (0.94%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Streamline",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Barrel",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "4X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.50%)"
+				},
+				{
+				  "drop": "Axi A13 Relic",
+				  "chance": "Ultra Rare (1.50%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Hydraulics",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Sporothrix Receiver",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Streamline",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Receiver",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "4X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.50%)"
+				},
+				{
+				  "drop": "Axi I2 Relic",
+				  "chance": "Ultra Rare (1.50%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Meso Z4 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Friction",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Sporothrix Stock",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Streamline",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Stock",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "4X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.50%)"
+				},
+				{
+				  "drop": "Axi C6 Relic",
+				  "chance": "Ultra Rare (1.50%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 30 - 40 Arcana Isolation Vault",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Meso P4 Relic",
+				  "chance": "Uncommon (12.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Uncommon (31.25%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "Meso P4 Relic",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (18.75%)"
+				},
+				{
+				  "drop": "Necramech Steel Fiber",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Rare (2.34%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Rare (2.34%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Meso P4 Relic",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Steel Fiber",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Thrusters",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Barrel",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "3X Scintillant",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "2X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Axi O5 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (30.00%)"
+				},
+				{
+				  "drop": "Necramech Steel Fiber",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Necramech Thrusters",
+				  "chance": "Rare (8.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Barrel",
+				  "chance": "Rare (6.00%)"
+				},
+				{
+				  "drop": "3X Scintillant",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "2X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.00%)"
+				},
+				{
+				  "drop": "Axi O5 Relic",
+				  "chance": "Ultra Rare (1.00%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Uncommon (12.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Uncommon (31.25%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (18.75%)"
+				},
+				{
+				  "drop": "Necramech Efficiency",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Rare (4.69%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Efficiency",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Thrusters",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Receiver",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "3X Scintillant",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "2X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Neo V10 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (30.00%)"
+				},
+				{
+				  "drop": "Necramech Efficiency",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Necramech Thrusters",
+				  "chance": "Rare (8.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Receiver",
+				  "chance": "Rare (6.00%)"
+				},
+				{
+				  "drop": "3X Scintillant",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "2X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.00%)"
+				},
+				{
+				  "drop": "Neo V10 Relic",
+				  "chance": "Ultra Rare (1.00%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Neo P3 Relic",
+				  "chance": "Uncommon (12.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Uncommon (31.25%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "Neo P3 Relic",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (18.75%)"
+				},
+				{
+				  "drop": "Necramech Reach",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Rare (4.69%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Redirection",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "2X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Neo P3 Relic",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Reach",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Thrusters",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Stock",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "3X Scintillant",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "2X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Neo P2 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (30.00%)"
+				},
+				{
+				  "drop": "Necramech Reach",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "2X Orokin Ballistics Matrix",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Necramech Thrusters",
+				  "chance": "Rare (8.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Stock",
+				  "chance": "Rare (6.00%)"
+				},
+				{
+				  "drop": "3X Scintillant",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "2X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.00%)"
+				},
+				{
+				  "drop": "Neo P2 Relic",
+				  "chance": "Ultra Rare (1.00%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 40 - 50 Arcana Isolation Vault",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Neo P2 Relic",
+				  "chance": "Rare (6.25%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Uncommon (31.25%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Neo P2 Relic",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (18.75%)"
+				},
+				{
+				  "drop": "Necramech Slipstream",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Rare (2.34%)"
+				},
+				{
+				  "drop": "Neo P2 Relic",
+				  "chance": "Ultra Rare (1.17%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Ultra Rare (1.17%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Neo P2 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Slipstream",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo P2 Relic",
+				  "chance": "Legendary (0.94%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Legendary (0.94%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Seismic Wave",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Barrel",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Rivet",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "3X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (30.00%)"
+				},
+				{
+				  "drop": "Necramech Slipstream",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo P2 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Necramech Seismic Wave",
+				  "chance": "Rare (8.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Barrel",
+				  "chance": "Rare (6.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Rivet",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "3X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.00%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Ultra Rare (1.00%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Rare (6.25%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Uncommon (31.25%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (18.75%)"
+				},
+				{
+				  "drop": "Necramech Continuity",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Rare (2.34%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Rare (2.34%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Continuity",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Seismic Wave",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Receiver",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Rivet",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "3X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Neo P3 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (30.00%)"
+				},
+				{
+				  "drop": "Necramech Continuity",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Necramech Seismic Wave",
+				  "chance": "Rare (8.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Receiver",
+				  "chance": "Rare (6.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Rivet",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "3X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.00%)"
+				},
+				{
+				  "drop": "Neo P3 Relic",
+				  "chance": "Ultra Rare (1.00%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Meso P4 Relic",
+				  "chance": "Rare (6.25%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Uncommon (31.25%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Meso P4 Relic",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (18.75%)"
+				},
+				{
+				  "drop": "Necramech Drift",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Rare (2.34%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Rare (2.34%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Blitz",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "3X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Meso P4 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Drift",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Seismic Wave",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Stock",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Rivet",
+				  "chance": "Rare (2.00%)"
+				},
+				{
+				  "drop": "3X Orokin Animus Matrix",
+				  "chance": "Legendary (0.50%)"
+				},
+				{
+				  "drop": "Axi O5 Relic",
+				  "chance": "Legendary (0.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (30.00%)"
+				},
+				{
+				  "drop": "Necramech Drift",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Guard",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "3X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo N17 Relic",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Necramech Seismic Wave",
+				  "chance": "Rare (8.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Stock",
+				  "chance": "Rare (6.00%)"
+				},
+				{
+				  "drop": "Arum Spinosa Rivet",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "3X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.00%)"
+				},
+				{
+				  "drop": "Axi O5 Relic",
+				  "chance": "Ultra Rare (1.00%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bounty": "Level 50 - 60 Arcana Isolation Vault",
+	  "rotations": [
+		{
+		  "rotation": "Rotation A",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Rare (6.25%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Uncommon (31.25%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (18.75%)"
+				},
+				{
+				  "drop": "Necramech Stretch",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "Sporothrix Barrel",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Rare (2.34%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Ultra Rare (1.17%)"
+				},
+				{
+				  "drop": "Neo V10 Relic",
+				  "chance": "Ultra Rare (1.17%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Boils",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Meso B5 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Stretch",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Sporothrix Barrel",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Legendary (0.94%)"
+				},
+				{
+				  "drop": "Neo V10 Relic",
+				  "chance": "Legendary (0.94%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Streamline",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Barrel",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "4X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.50%)"
+				},
+				{
+				  "drop": "Axi A13 Relic",
+				  "chance": "Ultra Rare (1.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Shock",
+				  "chance": "Uncommon (30.00%)"
+				},
+				{
+				  "drop": "Necramech Stretch",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Sporothrix Barrel",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo N16 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo V10 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Necramech Streamline",
+				  "chance": "Rare (8.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Barrel",
+				  "chance": "Rare (6.00%)"
+				},
+				{
+				  "drop": "4X Orokin Animus Matrix",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "Axi A13 Relic",
+				  "chance": "Rare (3.00%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation B",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Rare (6.25%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Uncommon (31.25%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (18.75%)"
+				},
+				{
+				  "drop": "Necramech Hydraulics",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "Sporothrix Receiver",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Rare (2.34%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Rare (2.34%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Residual Malodor",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Meso C6 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Hydraulics",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Sporothrix Receiver",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Streamline",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Receiver",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "4X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.50%)"
+				},
+				{
+				  "drop": "Axi I2 Relic",
+				  "chance": "Ultra Rare (1.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Residual Viremia",
+				  "chance": "Uncommon (30.00%)"
+				},
+				{
+				  "drop": "Necramech Hydraulics",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Sporothrix Receiver",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo T5 Relic",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Necramech Streamline",
+				  "chance": "Rare (8.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Receiver",
+				  "chance": "Rare (6.00%)"
+				},
+				{
+				  "drop": "4X Orokin Animus Matrix",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "Axi I2 Relic",
+				  "chance": "Rare (3.00%)"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rotation": "Rotation C",
+		  "stages": [
+			{
+			  "stage": "Stage 1",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Common (50.00%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "Meso Z4 Relic",
+				  "chance": "Rare (6.25%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 2, Stage 3 of 4, and Stage 3 of 5",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Uncommon (31.25%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (15.63%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Rare (7.81%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Meso Z4 Relic",
+				  "chance": "Rare (3.91%)"
+				},
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (18.75%)"
+				},
+				{
+				  "drop": "Necramech Friction",
+				  "chance": "Rare (9.38%)"
+				},
+				{
+				  "drop": "Sporothrix Stock",
+				  "chance": "Rare (4.69%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Rare (2.34%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Rare (2.34%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Stage 4 of 5",
+			  "drops": [
+				{
+				  "drop": "Theorem Demulcent",
+				  "chance": "Uncommon (25.00%)"
+				},
+				{
+				  "drop": "Necramech Fury",
+				  "chance": "Uncommon (12.50%)"
+				},
+				{
+				  "drop": "Sporothrix Blueprint",
+				  "chance": "Rare (6.25%)"
+				},
+				{
+				  "drop": "4X Orokin Orientation Matrix",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Meso Z4 Relic",
+				  "chance": "Rare (3.13%)"
+				},
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Necramech Friction",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "Sporothrix Stock",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Ultra Rare (1.88%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (10.00%)"
+				},
+				{
+				  "drop": "Necramech Streamline",
+				  "chance": "Rare (4.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Stock",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "4X Orokin Animus Matrix",
+				  "chance": "Ultra Rare (1.50%)"
+				},
+				{
+				  "drop": "Axi C6 Relic",
+				  "chance": "Ultra Rare (1.50%)"
+				}
+			  ]
+			},
+			{
+			  "stage": "Final Stage",
+			  "drops": [
+				{
+				  "drop": "Theorem Infection",
+				  "chance": "Uncommon (30.00%)"
+				},
+				{
+				  "drop": "Necramech Friction",
+				  "chance": "Uncommon (15.00%)"
+				},
+				{
+				  "drop": "Sporothrix Stock",
+				  "chance": "Rare (7.50%)"
+				},
+				{
+				  "drop": "4X Orokin Ballistics Matrix",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Neo T4 Relic",
+				  "chance": "Rare (3.75%)"
+				},
+				{
+				  "drop": "Theorem Contagion",
+				  "chance": "Uncommon (20.00%)"
+				},
+				{
+				  "drop": "Necramech Streamline",
+				  "chance": "Rare (8.00%)"
+				},
+				{
+				  "drop": "Damaged Necramech Weapon Stock",
+				  "chance": "Rare (6.00%)"
+				},
+				{
+				  "drop": "4X Orokin Animus Matrix",
+				  "chance": "Rare (3.00%)"
+				},
+				{
+				  "drop": "Axi C6 Relic",
+				  "chance": "Rare (3.00%)"
+				}
+			  ]
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
